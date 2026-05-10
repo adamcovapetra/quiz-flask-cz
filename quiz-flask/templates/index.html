@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="cs">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Kvíz</title>
+
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+  <main class="wrap">
+    <div class="header">
+      <div>
+        <h1>Kvíz</h1>
+        <p class="subtitle">Vyber kategorii, obtížnost a počet otázek. Hodně štěstí!</p>
+      </div>
+    </div>
+
+    <section class="card">
+      <div class="hud">
+        <span>Skóre: <strong id="score">0</strong></span>
+
+        <div class="hud-right">
+          <div class="theme-control">
+            <label for="theme">Motiv:</label>
+            <select id="theme">
+              <option value="dark">Tmavý</option>
+              <option value="light">Světlý</option>
+            </select>
+          </div>
+
+          <span>Otázka: <strong id="count">0</strong>/<strong id="total">0</strong></span>
+        </div>
+      </div>
+
+      <div class="row">
+        <label for="category">Kategorie:</label>
+        <select id="category">
+          {% for c in categories %}
+            <option value="{{ c }}">{{ c }}</option>
+          {% endfor %}
+        </select>
+
+        <label for="limit">Počet otázek:</label>
+        <input id="limit" type="number" min="1" max="50" value="10">
+
+        <label for="difficulty">Obtížnost:</label>
+        <select id="difficulty">
+          <option value="easy">Lehká</option>
+          <option value="medium">Střední</option>
+        </select>
+
+        <button id="load">Spustit kvíz</button>
+      </div>
+
+      <div id="quiz" class="quiz hidden">
+        <p class="meta" id="meta"></p>
+        <h2 class="question" id="question"></h2>
+        <div class="choices" id="choices"></div>
+      </div>
+
+      <div id="finish" class="hidden">
+        <h2>Kvíz dokončen 🎉</h2>
+        <p>Tvoje skóre: <strong id="finalScore">0</strong></p>
+        <button id="restart">Hrát znovu</button>
+      </div>
+
+      <p id="error" class="error"></p>
+    </section>
+  </main>
+
+  <script src="{{ url_for('static', filename='js/app.js') }}"></script>
+</body>
+</html>

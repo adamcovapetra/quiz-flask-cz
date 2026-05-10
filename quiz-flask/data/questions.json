@@ -1,0 +1,3225 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "category": "ekonomie",
+      "difficulty": "easy",
+      "question": "Z jakého jazyka původně pochází slovo \"ekonomie\"?",
+      "choices": ["Latina", "Řečtina", "Arabština", "Angličtina"],
+      "answerIndex": 1
+    },
+    {
+      "id": 2,
+      "category": "ekonomie",
+      "difficulty": "easy",
+      "question": "Co v řečtině znamená slovo \"oikonomos\"?",
+      "choices": ["Král", "Obchodník", "Hospodář", "Právník"],
+      "answerIndex": 2
+    },
+    {
+      "id": 3,
+      "category": "ekonomie",
+      "difficulty": "easy",
+      "question": "Který z následujících faktorů nepatří mezi tři základní výrobní faktory?",
+      "choices": ["Práce", "Půda", "Kapitál", "Technologie"],
+      "answerIndex": 3
+    },
+    {
+      "id": 4,
+      "category": "ekonomie",
+      "difficulty": "easy",
+      "question": "Jak se nazývá důchod plynoucí z práce?",
+      "choices": ["Renta", "Zisk", "Mzda", "Úrok"],
+      "answerIndex": 2
+    },
+    {
+      "id": 5,
+      "category": "ekonomie",
+      "difficulty": "easy",
+      "question": "Jak se nazývá důchod plynoucí z půdy?",
+      "choices": ["Mzda", "Pozemková renta", "Úrok", "Dividenda"],
+      "answerIndex": 1
+    },
+    {
+      "id": 6,
+      "category": "ekonomie",
+      "difficulty": "easy",
+      "question": "Která větev ekonomie zkoumá chování dílčích subjektů, jako jsou domácnosti a firmy?",
+      "choices": ["Makroekonomie", "Pozitivní ekonomie", "Mikroekonomie", "Normativní ekonomie"],
+      "answerIndex": 2
+    },
+    {
+      "id": 7,
+      "category": "ekonomie",
+      "difficulty": "easy",
+      "question": "Která větev ekonomie se zabývá hospodářstvím jako celkem (např. nezaměstnaností)?",
+      "choices": ["Mikroekonomie", "Makroekonomie", "Podniková ekonomika", "Matematická ekonomie"],
+      "answerIndex": 1
+    },
+    {
+      "id": 8,
+      "category": "ekonomie",
+      "difficulty": "easy",
+      "question": "Kdo je autorem knihy \"Pojednání o původu a podstatě bohatství národů\" (1776)?",
+      "choices": ["David Ricardo", "Adam Smith", "John Maynard Keynes", "Karl Marx"],
+      "answerIndex": 1
+    },
+    {
+      "id": 9,
+      "category": "ekonomie",
+      "difficulty": "easy",
+      "question": "Jak Smith nazval samoregulující se tržní mechanismus?",
+      "choices": ["Viditelná ruka státu", "Železný zákon mezd", "Neviditelná ruka trhu", "Přirozený řád"],
+      "answerIndex": 2
+    },
+    {
+      "id": 10,
+      "category": "ekonomie",
+      "difficulty": "easy",
+      "question": "Která ekonomie popisuje realitu takovou, jaká je, bez hodnocení?",
+      "choices": ["Normativní", "Pozitivní", "Politická", "Institucionální"],
+      "answerIndex": 1
+    },
+    {
+      "id": 11,
+      "category": "ekonomie",
+      "difficulty": "easy",
+      "question": "Které tři základní otázky řeší každá společnost?",
+      "choices": ["Kdy, kde, proč", "Co, jak, pro koho", "Kdo, s kým, za kolik", "Kolik, za co, jak dlouho"],
+      "answerIndex": 1
+    },
+    {
+      "id": 12,
+      "category": "ekonomie",
+      "difficulty": "easy",
+      "question": "Zákon klesající poptávky říká, že s rostoucí cenou poptávané množství zpravidla:",
+      "choices": ["Roste", "Klesá", "Nemění se", "Se zdvojnásobí"],
+      "answerIndex": 1
+    },
+    {
+      "id": 13,
+      "category": "ekonomie",
+      "difficulty": "easy",
+      "question": "Jakou směrnici má standardní křivka poptávky?",
+      "choices": ["Pozitivní (rostoucí)", "Negativní (klesající)", "Nulovou (vodorovná)", "Nekonečnou (svislá)"],
+      "answerIndex": 1
+    },
+    {
+      "id": 14,
+      "category": "ekonomie",
+      "difficulty": "easy",
+      "question": "Jak se nazývají statky, které se navzájem doplňují (např. auto a benzín)?",
+      "choices": ["Substituty", "Komplementy", "Méněcenné statky", "Luxusní statky"],
+      "answerIndex": 1
+    },
+    {
+      "id": 15,
+      "category": "ekonomie",
+      "difficulty": "easy",
+      "question": "Jak se nazývají statky, které jsou schopny se vzájemně nahradit (např. rohlík a chleba)?",
+      "choices": ["Komplementy", "Volné statky", "Substituty", "Kapitálové statky"],
+      "answerIndex": 2
+    },
+    {
+      "id": 16,
+      "category": "ekonomie",
+      "difficulty": "easy",
+      "question": "Tržní rovnováha nastává v průsečíku křivek:",
+      "choices": ["Nákladů a příjmů", "Nabídky a poptávky", "Úspor a investic", "Exportu a importu"],
+      "answerIndex": 1
+    },
+    {
+      "id": 17,
+      "category": "ekonomie",
+      "difficulty": "easy",
+      "question": "Pokud je nabízené množství větší než poptávané, vzniká na trhu:",
+      "choices": ["Nedostatek zboží", "Přebytek zboží", "Rovnováha", "Inflace"],
+      "answerIndex": 1
+    },
+    {
+      "id": 18,
+      "category": "ekonomie",
+      "difficulty": "easy",
+      "question": "Uspokojení potřeby spotřebou statků nazýváme v ekonomii:",
+      "choices": ["Nákladem", "Užitkem", "Poptávkou", "Ziskem"],
+      "answerIndex": 1
+    },
+    {
+      "id": 19,
+      "category": "ekonomie",
+      "difficulty": "easy",
+      "question": "První Gossenův zákon se týká:",
+      "choices": ["Rostoucí nabídky", "Klesajícího mezního užitku", "Mezinárodního obchodu", "Státního rozpočtu"],
+      "answerIndex": 1
+    },
+    {
+      "id": 20,
+      "category": "ekonomie",
+      "difficulty": "easy",
+      "question": "Bod, ve kterém je spotřebitel již nasycen a další jednotka mu nepřináší užitek, se nazývá:",
+      "choices": ["Bod obratu", "Bod nasycení", "Bod ukončení činnosti", "Bod vyrovnání"],
+      "answerIndex": 1
+    },
+    {
+      "id": 21,
+      "category": "ekonomie",
+      "difficulty": "easy",
+      "question": "Jak se zkratkou označuje Hrubý domácí produkt?",
+      "choices": ["HNP", "ČDP", "GDP", "GNI"],
+      "answerIndex": 2
+    },
+    {
+      "id": 22,
+      "category": "ekonomie",
+      "difficulty": "easy",
+      "question": "Co tvoří \"úzké peníze\" v agregátu M1?",
+      "choices": ["Pouze zlato", "Akcie a dluhopisy", "Oběživo (bankovky a mince) a vklady na běžných účtech", "Termínované vklady na 10 let"],
+      "answerIndex": 2
+    },
+    {
+      "id": 23,
+      "category": "ekonomie",
+      "difficulty": "easy",
+      "question": "Která instituce v ČR emituje (vydává) hotové peníze?",
+      "choices": ["Ministerstvo financí", "Česká národní banka", "Úřad vlády", "Komerční banka"],
+      "answerIndex": 1
+    },
+    {
+      "id": 24,
+      "category": "ekonomie",
+      "difficulty": "easy",
+      "question": "Jak se nazývá výměna zboží za zboží bez použití peněz?",
+      "choices": ["Monetizace", "Barter", "Leasing", "Dumping"],
+      "answerIndex": 1
+    },
+    {
+      "id": 25,
+      "category": "ekonomie",
+      "difficulty": "easy",
+      "question": "Nezaměstnanost spojená s hledáním nového zaměstnání se nazývá:",
+      "choices": ["Cyklická", "Frikční", "Strukturální", "Sezónní"],
+      "answerIndex": 1
+    },
+    {
+      "id": 26,
+      "category": "ekonomie",
+      "difficulty": "easy",
+      "question": "Proces trvalého růstu cenové hladiny se nazývá:",
+      "choices": ["Deflace", "Stagnace", "Inflace", "Recese"],
+      "answerIndex": 2
+    },
+    {
+      "id": 27,
+      "category": "ekonomie",
+      "difficulty": "easy",
+      "question": "Jaká je společná měna většiny zemí Evropské unie?",
+      "choices": ["Dolar", "Libra", "Euro", "Frank"],
+      "answerIndex": 2
+    },
+    {
+      "id": 28,
+      "category": "ekonomie",
+      "difficulty": "easy",
+      "question": "Co znamená zkratka ČNB?",
+      "choices": ["Česká nákupní burza", "Česká národní banka", "Česká námořní bezpečnost", "Český národní blahobyt"],
+      "answerIndex": 1
+    },
+    {
+      "id": 29,
+      "category": "ekonomie",
+      "difficulty": "easy",
+      "question": "Jak se nazývá stav, kdy příjmy státního rozpočtu jsou nižší než jeho výdaje?",
+      "choices": ["Přebytek", "Deficit (schodek)", "Rovnováha", "Likvidita"],
+      "answerIndex": 1
+    },
+    {
+      "id": 30,
+      "category": "ekonomie",
+      "difficulty": "easy",
+      "question": "Co je hlavním cílem komerční firmy?",
+      "choices": ["Maximalizace nákladů", "Maximalizace zisku", "Minimalizace tržeb", "Zvyšování nezaměstnanosti"],
+      "answerIndex": 1
+    },
+    {
+      "id": 31,
+      "category": "ekonomie",
+      "difficulty": "easy",
+      "question": "Který ekonomický směr věřil, že bohatství země závisí na množství drahých kovů?",
+      "choices": ["Fyziokraté", "Merkantilismus", "Klasická škola", "Marxismus"],
+      "answerIndex": 1
+    },
+    {
+      "id": 32,
+      "category": "ekonomie",
+      "difficulty": "easy",
+      "question": "Mezi nepřímé daně patří:",
+      "choices": ["Daň z příjmů fyzických osob", "Daň z přidané hodnoty (DPH)", "Daň z nemovitostí", "Silniční daň"],
+      "answerIndex": 1
+    },
+    {
+      "id": 33,
+      "category": "ekonomie",
+      "difficulty": "easy",
+      "question": "Čistý export (NX) vypočítáme jako:",
+      "choices": ["Import + Export", "Export - Import", "Import / Export", "Pouze objem Exportu"],
+      "answerIndex": 1
+    },
+    {
+      "id": 34,
+      "category": "ekonomie",
+      "difficulty": "easy",
+      "question": "Jak se nazývá pokles reálného GDP ve dvou po sobě jdoucích čtvrtletích?",
+      "choices": ["Expanze", "Recese", "Vrchol", "Sedlo"],
+      "answerIndex": 1
+    },
+    {
+      "id": 35,
+      "category": "ekonomie",
+      "difficulty": "easy",
+      "question": "Který výrobní faktor zahrnuje stroje, budovy a silnice?",
+      "choices": ["Práce", "Půda", "Kapitál", "Informace"],
+      "answerIndex": 2
+    },
+    {
+      "id": 36,
+      "category": "ekonomie",
+      "difficulty": "easy",
+      "question": "Pojem \"Laissez-faire\" znamená v překladu:",
+      "choices": ["Stát musí vše řídit", "Nechte nás konat", "Peníze jsou vše", "Práce šlechtí"],
+      "answerIndex": 1
+    },
+    {
+      "id": 37,
+      "category": "ekonomie",
+      "difficulty": "easy",
+      "question": "Grafické znázornění rozdělení důchodů v populaci se nazývá:",
+      "choices": ["Lafferova křivka", "Lorenzova křivka", "Phillipsova křivka", "Křivka IS"],
+      "answerIndex": 1
+    },
+    {
+      "id": 38,
+      "category": "ekonomie",
+      "difficulty": "easy",
+      "question": "Jak se nazývá trh, kde existuje pouze jeden prodávající?",
+      "choices": ["Dokonalá konkurence", "Monopol", "Oligopol", "Monopson"],
+      "answerIndex": 1
+    },
+    {
+      "id": 39,
+      "category": "ekonomie",
+      "difficulty": "easy",
+      "question": "Co je to \"amortizace\"?",
+      "choices": ["Úrok z vkladu", "Opotřebení fixního kapitálu (odpisy)", "Typ daně", "Zahraniční investice"],
+      "answerIndex": 1
+    },
+    {
+      "id": 40,
+      "category": "ekonomie",
+      "difficulty": "easy",
+      "question": "Nezaměstnanost spojená s poklesem výkonnosti ekonomiky v cyklu je:",
+      "choices": ["Strukturální", "Frikční", "Cyklická", "Technologická"],
+      "answerIndex": 2
+    },
+    {
+      "id": 41,
+      "category": "ekonomie",
+      "difficulty": "easy",
+      "question": "Cena, za kterou se směňují národní měny, se nazývá:",
+      "choices": ["Úroková míra", "Měnový kurz", "Cenová hladina", "Reálná mzda"],
+      "answerIndex": 1
+    },
+    {
+      "id": 42,
+      "category": "ekonomie",
+      "difficulty": "easy",
+      "question": "Který z autorů je spojen s dílem \"Kapitál\" (1867)?",
+      "choices": ["Adam Smith", "Karl Marx", "John Stuart Mill", "Alfred Marshall"],
+      "answerIndex": 1
+    },
+    {
+      "id": 43,
+      "category": "ekonomie",
+      "difficulty": "easy",
+      "question": "V dokonale konkurenčním prostředí je firma:",
+      "choices": ["Cenovým tvůrcem", "Cenovým příjemcem", "Jediným výrobcem", "Státním orgánem"],
+      "answerIndex": 1
+    },
+    {
+      "id": 44,
+      "category": "ekonomie",
+      "difficulty": "easy",
+      "question": "Co tvoří příjmovou stránku státního rozpočtu nejvýrazněji?",
+      "choices": ["Dary", "Daně", "Pokuty", "Prodej lesů"],
+      "answerIndex": 1
+    },
+    {
+      "id": 45,
+      "category": "ekonomie",
+      "difficulty": "easy",
+      "question": "Jak se nazývá věda o hospodaření?",
+      "choices": ["Ekologie", "Ekonomie", "Ergonomie", "Etnografie"],
+      "answerIndex": 1
+    },
+    {
+      "id": 46,
+      "category": "ekonomie",
+      "difficulty": "easy",
+      "question": "Který index měří inflaci pomocí spotřebního koše?",
+      "choices": ["GDP", "CPI", "HHI", "PX"],
+      "answerIndex": 1
+    },
+    {
+      "id": 47,
+      "category": "ekonomie",
+      "difficulty": "easy",
+      "question": "Slovo \"Capital\" v ekonomii značí:",
+      "choices": ["Hlavní město", "Kapitál", "Velké písmeno", "Trest smrti"],
+      "answerIndex": 1
+    },
+    {
+      "id": 48,
+      "category": "ekonomie",
+      "difficulty": "easy",
+      "question": "Když centrální banka snižuje množství peněz v oběhu, provádí:",
+      "choices": ["Monetární expanzi", "Monetární restrikci", "Fiskální politiku", "Devalvaci"],
+      "answerIndex": 1
+    },
+    {
+      "id": 49,
+      "category": "ekonomie",
+      "difficulty": "easy",
+      "question": "Co vyjadřuje Phillipsova křivka?",
+      "choices": ["Vztah mezi daněmi a výnosem", "Vztah mezi inflací a nezaměstnaností", "Vztah mezi úsporami a investicemi", "Vztah mezi exportem a dovozem"],
+      "answerIndex": 1
+    },
+    {
+      "id": 50,
+      "category": "ekonomie",
+      "difficulty": "easy",
+      "question": "Jaká je zkratka pro Evropskou unii?",
+      "choices": ["OSN", "EU", "MMF", "NATO"],
+      "answerIndex": 1
+    },
+
+    {
+      "id": 51,
+      "category": "ekonomie",
+      "difficulty": "medium",
+      "question": "Kdo popsal principy fungování hospodářství v knize Muqaddimah ve 14. století?",
+      "choices": ["Aristoteles", "Ibn Khaldūn", "Tomáš Akvinský", "Adam Smith"],
+      "answerIndex": 1
+    },
+    {
+      "id": 52,
+      "category": "ekonomie",
+      "difficulty": "medium",
+      "question": "Který směr zavedl model ekonomie jako koloběhu důchodů a výstupů a prosazoval jedinou daň z půdy?",
+      "choices": ["Merkantilisté", "Fyziokraté", "Neoklasici", "Keynesovci"],
+      "answerIndex": 1
+    },
+    {
+      "id": 53,
+      "category": "ekonomie",
+      "difficulty": "medium",
+      "question": "David Ricardo se v rámci klasické školy zabýval především:",
+      "choices": ["Tvorbou bohatství", "Rozdělováním důchodů", "Státními zásahy", "Psychologií spotřebitele"],
+      "answerIndex": 1
+    },
+    {
+      "id": 54,
+      "category": "ekonomie",
+      "difficulty": "medium",
+      "question": "Co tvrdí Sayův zákon trhů?",
+      "choices": ["Poptávka si tvoří svou nabídku", "Nabídka si tvoří svou vlastní poptávku", "Stát musí regulovat ceny", "Peníze jsou jen neutrální závoj"],
+      "answerIndex": 1
+    },
+    {
+      "id": 55,
+      "category": "ekonomie",
+      "difficulty": "medium",
+      "question": "Která škola je spojena s \"marginalistickou revolucí\" (1870-1910)?",
+      "choices": ["Klasická škola", "Neoklasická škola", "Postkeynesovství", "Institucionální ekonomie"],
+      "answerIndex": 1
+    },
+    {
+      "id": 56,
+      "category": "ekonomie",
+      "difficulty": "medium",
+      "question": "Kdyby změna ceny o 1 % vyvolala změnu poptávaného množství o 2 %, poptávka je:",
+      "choices": ["Neelastická", "Jednotkově elastická", "Elastická", "Dokonale neelastická"],
+      "answerIndex": 2
+    },
+    {
+      "id": 57,
+      "category": "ekonomie",
+      "difficulty": "medium",
+      "question": "Pokud je koeficient cenové elasticity poptávky ED < 1, pak je poptávka:",
+      "choices": ["Cenově elastická", "Jednotkově elastická", "Cenově neelastická", "Dokonale elastická"],
+      "answerIndex": 2
+    },
+    {
+      "id": 58,
+      "category": "ekonomie",
+      "difficulty": "medium",
+      "question": "U statků s negativní důchodovou elasticitou (méněcenné statky) s růstem příjmu poptávka:",
+      "choices": ["Roste", "Klesá", "Nemění se", "Roste progresivně"],
+      "answerIndex": 1
+    },
+    {
+      "id": 59,
+      "category": "ekonomie",
+      "difficulty": "medium",
+      "question": "Mezní užitek (MU) je definován jako:",
+      "choices": ["Součet všech užitků", "Přírůstek celkového užitku při zvýšení spotřeby o jednu jednotku", "Užitek z první spotřebované jednotky", "Rozdíl mezi cenou a celkovým užitkem"],
+      "answerIndex": 1
+    },
+    {
+      "id": 60,
+      "category": "ekonomie",
+      "difficulty": "medium",
+      "question": "Druhý Gossenův zákon říká, že spotřebitel maximalizuje užitek, když se rovnají:",
+      "choices": ["Ceny všech statků", "Celkové užitky všech statků", "Poměry mezních užitků k cenám u všech statků", "Mezní náklady a mezní příjmy"],
+      "answerIndex": 2
+    },
+    {
+      "id": 61,
+      "category": "ekonomie",
+      "difficulty": "medium",
+      "question": "Křivka, která spojuje všechny kombinace dvou statků přinášející stejný užitek, se nazývá:",
+      "choices": ["Rozpočtová přímka", "Indiferenční křivka", "Izokvanta", "Izokosta"],
+      "answerIndex": 1
+    },
+    {
+      "id": 62,
+      "category": "ekonomie",
+      "difficulty": "medium",
+      "question": "Co vyjadřuje sklon rozpočtové přímky (Budget Line)?",
+      "choices": ["Preference spotřebitele", "Poměr cen obou komodit", "Výši disponibilního důchodu", "Mezní míru substituce"],
+      "answerIndex": 1
+    },
+    {
+      "id": 63,
+      "category": "ekonomie",
+      "difficulty": "medium",
+      "question": "Veřejná obchodní společnost (v.o.s.) se vyznačuje tím, že:",
+      "choices": ["Společníci ručí jen do výše vkladu", "Společníci ručí celým svým majetkem", "Musí mít základní kapitál 2 mil. Kč", "Má minimálně 50 společníků"],
+      "answerIndex": 1
+    },
+    {
+      "id": 64,
+      "category": "ekonomie",
+      "difficulty": "medium",
+      "question": "Zákon klesajících výnosů z variabilního vstupu se projevuje v:",
+      "choices": ["Dlouhém období", "Krátkém období", "Pouze v zemědělství", "Pouze u monopolů"],
+      "answerIndex": 1
+    },
+    {
+      "id": 65,
+      "category": "ekonomie",
+      "difficulty": "medium",
+      "question": "Mezní produkt práce (MPL) je:",
+      "choices": ["Celkový produkt dělený počtem pracovníků", "Přírůstek celkového produktu vyprodukovaný dodatečnou jednotkou práce", "Minimální mzda stanovená státem", "Množství kapitálu na jednoho pracovníka"],
+      "answerIndex": 1
+    },
+    {
+      "id": 66,
+      "category": "ekonomie",
+      "difficulty": "medium",
+      "question": "V technologickém optimu firmy v krátkém období platí, že:",
+      "choices": ["Mezní náklady (SMC) protínají minimum průměrných nákladů (SAC)", "Fixní náklady jsou nulové", "Celkové příjmy jsou maximální", "Cena je vyšší než mezní užitek"],
+      "answerIndex": 0
+    },
+    {
+      "id": 67,
+      "category": "ekonomie",
+      "difficulty": "medium",
+      "question": "Fixní náklady (FC) jsou náklady, které:",
+      "choices": ["Rostou s každou další vyrobenou jednotkou", "Existují i při nulovém objemu produkce", "V dlouhém období neustále rostou", "Jsou spojeny pouze s materiálem"],
+      "answerIndex": 1
+    },
+    {
+      "id": 68,
+      "category": "ekonomie",
+      "difficulty": "medium",
+      "question": "Pravidlo maximalizace zisku v jakékoli tržní struktuře zní:",
+      "choices": ["P = AC", "MR = MC", "TR = TC", "AR = AC"],
+      "answerIndex": 1
+    },
+    {
+      "id": 69,
+      "category": "ekonomie",
+      "difficulty": "medium",
+      "question": "Bod ukončení činnosti firmy v dokonalé konkurenci v krátkém období nastává, když cena klesne pod úroveň:",
+      "choices": ["Průměrných celkových nákladů (SAC)", "Průměrných variabilních nákladů (AVC)", "Mezních nákladů (SMC)", "Fixních nákladů (FC)"],
+      "answerIndex": 1
+    },
+    {
+      "id": 70,
+      "category": "ekonomie",
+      "difficulty": "medium",
+      "question": "Náklady mrtvé váhy (DWL) vznikají v důsledku existence:",
+      "choices": ["Dokonalé konkurence", "Nedokonalé konkurence (např. monopolu)", "Státního rozpočtu", "Zahraničního obchodu"],
+      "answerIndex": 1
+    },
+    {
+      "id": 71,
+      "category": "ekonomie",
+      "difficulty": "medium",
+      "question": "Herfindahlův index (HHI) slouží k měření:",
+      "choices": ["Inflace", "Nezaměstnanosti", "Tržní moci (míry monopolizace)", "Ekonomického růstu"],
+      "answerIndex": 2
+    },
+    {
+      "id": 72,
+      "category": "ekonomie",
+      "difficulty": "medium",
+      "question": "Při výpočtu GDP výdajovou metodou sčítáme:",
+      "choices": ["Mzdy, renty, zisky a úroky", "Spotřebu, investice, vládní výdaje a čistý export", "Přidanou hodnotu všech firem", "Pouze příjmy domácností"],
+      "answerIndex": 1
+    },
+    {
+      "id": 73,
+      "category": "ekonomie",
+      "difficulty": "medium",
+      "question": "Reálný GDP se od nominálního GDP liší tím, že je:",
+      "choices": ["Vyšší o hodnotu amortizace", "Očištěn o vliv změn cenové hladiny (inflaci)", "Vypočítán pouze v amerických dolarech", "Součtem všech důchodů v ekonomice"],
+      "answerIndex": 1
+    },
+    {
+      "id": 74,
+      "category": "ekonomie",
+      "difficulty": "medium",
+      "question": "Implicitní cenový deflátor je definován jako:",
+      "choices": ["Poměr reálného a nominálního GDP", "Poměr nominálního a reálného GDP krát 100", "Rozdíl mezi exportem a importem", "Průměrná úroková míra v zemi"],
+      "answerIndex": 1
+    },
+    {
+      "id": 75,
+      "category": "ekonomie",
+      "difficulty": "medium",
+      "question": "Co představuje potenciální produkt (Y*)?",
+      "choices": [
+        "Maximální produkt, kterého lze dosáhnout při plném a efektivním využití zdrojů",
+        "Skutečný produkt v období recese",
+        "Produkt vyrobený pouze v zemědělství",
+        "Součet všech úspor v ekonomice"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": 76,
+      "category": "ekonomie",
+      "difficulty": "medium",
+      "question": "Mezní sklon ke spotřebě (c) udává:",
+      "choices": ["Celkovou spotřebu domácností", "O kolik se změní spotřeba při změně důchodu o jednotku", "Podíl spotřeby na úsporách", "Výši autonomní spotřeby"],
+      "answerIndex": 1
+    },
+    {
+      "id": 77,
+      "category": "ekonomie",
+      "difficulty": "medium",
+      "question": "Investiční multiplikátor ve dvousektorové ekonomice je roven:",
+      "choices": ["1 / (1 - c)", "1 / (1 + s)", "c / s", "1 - s"],
+      "answerIndex": 0
+    },
+    {
+      "id": 78,
+      "category": "ekonomie",
+      "difficulty": "medium",
+      "question": "Cambridgeská rovnice peněz má tvar:",
+      "choices": ["M = P * Y", "M = k * P * Y", "P = M / V", "G = T - TR"],
+      "answerIndex": 1
+    },
+    {
+      "id": 79,
+      "category": "ekonomie",
+      "difficulty": "medium",
+      "question": "Reálná úroková míra (iR) je přibližně:",
+      "choices": ["Nominální úroková míra plus míra inflace", "Nominální úroková míra mínus míra inflace", "Míra inflace dělená nominálním úrokem", "Fixní sazba stanovená bankou"],
+      "answerIndex": 1
+    },
+    {
+      "id": 80,
+      "category": "ekonomie",
+      "difficulty": "medium",
+      "question": "Povinné minimální rezervy (PMR) jsou nástrojem:",
+      "choices": ["Fiskální politiky", "Monetární politiky", "Důchodové politiky", "Obchodní politiky"],
+      "answerIndex": 1
+    },
+    {
+      "id": 81,
+      "category": "ekonomie",
+      "difficulty": "medium",
+      "question": "Křivka IS v modelu IS-LM vyjadřuje rovnováhu na:",
+      "choices": ["Trhu peněz", "Trhu zboží a služeb", "Trhu práce", "Devizovém trhu"],
+      "answerIndex": 1
+    },
+    {
+      "id": 82,
+      "category": "ekonomie",
+      "difficulty": "medium",
+      "question": "Křivka LM vyjadřuje kombinace úrokové míry a produktu, při nichž je v rovnováze:",
+      "choices": ["Státní rozpočet", "Trh peněz", "Trh výrobních faktorů", "Zahraniční obchod"],
+      "answerIndex": 1
+    },
+    {
+      "id": 83,
+      "category": "ekonomie",
+      "difficulty": "medium",
+      "question": "Apreciace národní měny znamená:",
+      "choices": ["Znehodnocení kurzu", "Zhodnocení (posílení) kurzu", "Administrativní snížení kurzu státem", "Zánik měny"],
+      "answerIndex": 1
+    },
+    {
+      "id": 84,
+      "category": "ekonomie",
+      "difficulty": "medium",
+      "question": "Giniho koeficient (G) nabývá hodnot:",
+      "choices": ["Od -1 do 1", "Od 0 do 1 (nebo 0 % až 100 %)", "Pouze záporných", "Od 1 do nekonečna"],
+      "answerIndex": 1
+    },
+    {
+      "id": 85,
+      "category": "ekonomie",
+      "difficulty": "medium",
+      "question": "Okunův zákon popisuje vztah mezi:",
+      "choices": ["Daněmi a výnosem", "Cyklickou nezaměstnaností a produkční mezerou", "Úrokovou mírou a investicemi", "Exportem a měnovým kurzem"],
+      "answerIndex": 1
+    },
+    {
+      "id": 86,
+      "category": "ekonomie",
+      "difficulty": "medium",
+      "question": "Stagflace je situace charakteristická:",
+      "choices": ["Nízkou inflací a nízkou nezaměstnaností", "Vysokou inflací a vysokou nezaměstnaností (stagnací)", "Vysokým růstem GDP a deflací", "Vyrovnaným státním rozpočtem"],
+      "answerIndex": 1
+    },
+    {
+      "id": 87,
+      "category": "ekonomie",
+      "difficulty": "medium",
+      "question": "Při \"špinavém\" floatingu (řízeném):",
+      "choices": ["Je kurz pevně fixován na zlato", "Kurz se vyvíjí tržně, ale centrální banka občas intervenuje", "Peníze jsou znečištěny tiskem", "Neexistuje devizový trh"],
+      "answerIndex": 1
+    },
+    {
+      "id": 88,
+      "category": "ekonomie",
+      "difficulty": "medium",
+      "question": "Lafferova křivka ukazuje, že od určitého bodu další růst daňové sazby vede k:",
+      "choices": ["Růstu daňových výnosů", "Poklesu daňových výnosů", "Poklesu inflace", "Zániku státu"],
+      "answerIndex": 1
+    },
+    {
+      "id": 89,
+      "category": "ekonomie",
+      "difficulty": "medium",
+      "question": "Mezi konvergenční (Maastrichtská) kritéria pro vstup do eurozóny nepatří:",
+      "choices": ["Kritérium cenové stability (inflace)", "Kritérium vládního deficitu (max. 3 % GDP)", "Kritérium minimální mzdy", "Kritérium stability měnového kurzu"],
+      "answerIndex": 2
+    },
+    {
+      "id": 90,
+      "category": "ekonomie",
+      "difficulty": "medium",
+      "question": "Hrubý národní důchod (GNI) se od GDP liší tím, že zahrnuje:",
+      "choices": ["Pouze produkci vytvořenou na území státu", "Čisté příjmy z majetku v zahraničí (NPI)", "Pouze vládní nákupy", "Hodnotu volného času"],
+      "answerIndex": 1
+    },
+    {
+      "id": 91,
+      "category": "ekonomie",
+      "difficulty": "medium",
+      "question": "Individuální nabídka práce má specifický tvar, protože:",
+      "choices": ["Je vždy svislá", "Od určité výše mzdy se zakřivuje zpět (převládne důchodový efekt)", "Lidé chtějí pracovat čím dál víc bez ohledu na mzdu", "Firmy ji nemohou ovlivnit"],
+      "answerIndex": 1
+    },
+    {
+      "id": 92,
+      "category": "ekonomie",
+      "difficulty": "medium",
+      "question": "V modelu AD-AS má dlouhodobá agregátní nabídka (LAS) tvar:",
+      "choices": ["Klesající přímky", "Vertikály na úrovni potenciálního produktu", "Horizontály na úrovni cenové hladiny P=100", "Rostoucí paraboly"],
+      "answerIndex": 1
+    },
+    {
+      "id": 93,
+      "category": "ekonomie",
+      "difficulty": "medium",
+      "question": "Co se stane s křivkou agregátní poptávky (AD), pokud klesnou daně z příjmů?",
+      "choices": ["Posune se doleva dolů", "Posune se doprava nahoru", "Zůstane neměnná", "Změní se v přímku nabídky"],
+      "answerIndex": 1
+    },
+    {
+      "id": 94,
+      "category": "ekonomie",
+      "difficulty": "medium",
+      "question": "Finanční účet platební bilance zachycuje:",
+      "choices": ["Obchod se zbožím a službami", "Příliv a odliv kapitálu (investice)", "Výplatu starobních důchodů v ČR", "Nákup potravin v supermarketu"],
+      "answerIndex": 1
+    },
+    {
+      "id": 95,
+      "category": "ekonomie",
+      "difficulty": "medium",
+      "question": "Teorie komparativní výhody vysvětluje:",
+      "choices": ["Proč je monopol špatný", "Výhodnost mezinárodního obchodu i pro méně efektivní země", "Jak funguje burza cenných papírů", "Proč vzniká hyperinflace"],
+      "answerIndex": 1
+    },
+    {
+      "id": 96,
+      "category": "ekonomie",
+      "difficulty": "medium",
+      "question": "Který cenný papír dává majiteli právo na dividendu?",
+      "choices": ["Dluhopis", "Směnka", "Akcie", "Státní pokladniční poukázka"],
+      "answerIndex": 2
+    },
+    {
+      "id": 97,
+      "category": "ekonomie",
+      "difficulty": "medium",
+      "question": "Ekonomie strany nabídky (supply-side economics) doporučuje:",
+      "choices": ["Zvyšování vládních výdajů", "Snižování daní pro stimulaci investic", "Zestátnění bank", "Fixaci cen všech výrobků"],
+      "answerIndex": 1
+    },
+    {
+      "id": 98,
+      "category": "ekonomie",
+      "difficulty": "medium",
+      "question": "Nominální peněžní zásoba dělená cenovou hladinou (M/P) se nazývá:",
+      "choices": ["Nominální úroková míra", "Reálná peněžní nabídka", "Rychlost obratu peněz", "Peněžní iluze"],
+      "answerIndex": 1
+    },
+    {
+      "id": 99,
+      "category": "ekonomie",
+      "difficulty": "medium",
+      "question": "Dostředivý teorém pavučiny (ED > ES) znamená, že trh:",
+      "choices": ["Je neschopen najít rovnováhu", "Je schopen obnovit rovnováhu po vychýlení", "Vede k neustále rostoucím cenám", "Zanikne v důsledku monopolizace"],
+      "answerIndex": 1
+    },
+    {
+      "id": 100,
+      "category": "ekonomie",
+      "difficulty": "medium",
+      "question": "Bod vyrovnání firmy v dlouhém období nastává v:",
+      "choices": ["Maximu průměrných nákladů", "Minimu dlouhodobých průměrných nákladů (LAC)", "Bodě, kde MR = 0", "Průsečíku poptávky s osou x"],
+      "answerIndex": 1
+    },
+    {
+    "id": 101,
+    "category": "Afrika - geografie",
+    "difficulty": "easy",
+    "question": "Jaká je přibližná rozloha afrického kontinentu?",
+    "choices": ["10 300 000 km²", "20 300 000 km²", "30 300 000 km²", "40 300 000 km²"],
+    "answerIndex": 2
+    },
+    {
+      "id": 102,
+      "category": "Afrika - geografie",
+      "difficulty": "easy",
+      "question": "Který kontinent je jako jediný větší než Afrika (pokud nepočítáme Ameriku jako celek)?",
+      "choices": ["Asie", "Evropa", "Austrálie", "Antarktida"],
+      "answerIndex": 0
+    },
+    {
+      "id": 103,
+      "category": "Afrika - geografie",
+    "difficulty": "easy",
+    "question": "Jak se jmenuje nejvyšší bod Afriky?",
+    "choices": ["Mount Kenya", "Ras Dašan", "Uhuru (Kilimandžáro)", "Pico de Teide"],
+    "answerIndex": 2
+  },
+  {
+    "id": 104,
+    "category": "Afrika - geografie",
+    "difficulty": "easy",
+    "question": "Která poušť je největší v Africe?",
+    "choices": ["Namib", "Kalahari", "Sahara", "Ogaden"],
+    "answerIndex": 2
+  },
+  {
+    "id": 105,
+    "category": "Afrika - geografie",
+    "difficulty": "easy",
+    "question": "Která řeka je považována za nejdelší v Africe?",
+    "choices": ["Nil", "Kongo", "Niger", "Zambezi"],
+    "answerIndex": 0
+  },
+  {
+    "id": 106,
+    "category": "Afrika - geografie",
+    "difficulty": "easy",
+    "question": "Který ostrov je největším ostrovem Afriky?",
+    "choices": ["Mauricius", "Seychely", "Madagaskar", "Sokotra"],
+    "answerIndex": 2
+  },
+  {
+    "id": 107,
+    "category": "Afrika - geografie",
+    "difficulty": "easy",
+    "question": "Který průliv odděluje Afriku od Evropy?",
+    "choices": ["Mosambický průliv", "Průliv Bāb al Mandab", "Gibraltarský průliv", "Suezský průplav"],
+    "answerIndex": 2
+  },
+  {
+    "id": 108,
+    "category": "Afrika - geografie",
+    "difficulty": "easy",
+    "question": "Jak se jmenuje nejníže položené místo v Africe?",
+    "choices": ["Čadská pánev", "Assalská proláklina", "Konžská pánev", "Danakilská proláklina"],
+    "answerIndex": 1
+  },
+  {
+    "id": 109,
+    "category": "Afrika - geografie",
+    "difficulty": "easy",
+    "question": "Který oceán omývá Afriku na západě?",
+    "choices": ["Indický", "Atlantický", "Severní ledový", "Tichý"],
+    "answerIndex": 1
+  },
+  {
+    "id": 110,
+    "category": "Afrika - geografie",
+    "difficulty": "easy",
+    "question": "Afrika tvoří přibližně kolik procent zemské souše?",
+    "choices": ["10,3 %", "20,3 %", "30,3 %", "40,3 %"],
+    "answerIndex": 1
+  },
+  {
+    "id": 111,
+    "category": "Afrika - geografie",
+    "difficulty": "easy",
+    "question": "Který stát je nejvýchodnějším bodem pevninské Afriky?",
+    "choices": ["Etiopie", "Keňa", "Somálsko", "Egypt"],
+    "answerIndex": 2
+  },
+  {
+    "id": 112,
+    "category": "Afrika - geografie",
+    "difficulty": "easy",
+    "question": "Která čára prochází Afrikou a rozděluje ji na severní a jižní část?",
+    "choices": ["Rovník", "Nultý poledník", "Obratník Raka", "Obratník Kozoroha"],
+    "answerIndex": 0
+  },
+  {
+    "id": 113,
+    "category": "Afrika - geografie",
+    "difficulty": "easy",
+    "question": "Kolik časových pásem zasahuje do pevninské Afriky?",
+    "choices": ["Dvě", "Tři", "Čtyři", "Pět"],
+    "answerIndex": 2
+  },
+  {
+    "id": 114,
+    "category": "Afrika - geografie",
+    "difficulty": "easy",
+    "question": "Který záliv je největším zálivem zasahujícím do afrického pobřeží?",
+    "choices": ["Guinejský záliv", "Adenský záliv", "Záliv Velká Syrta", "Bizertský záliv"],
+    "answerIndex": 0
+  },
+  {
+    "id": 115,
+    "category": "Afrika - geografie",
+    "difficulty": "easy",
+    "question": "Jak se jmenuje nejjižnější bod africké pevniny?",
+    "choices": ["Bílý mys", "Zelený mys", "Střelkový mys (Cape Agulhas)", "Mys Guardafui"],
+    "answerIndex": 2
+  },
+  {
+    "id": 116,
+    "category": "Afrika - geografie",
+    "difficulty": "easy",
+    "question": "Která řeka má největší povodí a nejvíce vody v Africe?",
+    "choices": ["Nil", "Kongo", "Niger", "Zambezi"],
+    "answerIndex": 1
+  },
+  {
+    "id": 117,
+    "category": "Afrika - geografie",
+    "difficulty": "easy",
+    "question": "Které jezero je plošně největší v Africe?",
+    "choices": ["Viktoriino jezero (Ukerewe)", "Tanganika", "Malawi", "Čadské jezero"],
+    "answerIndex": 0
+  },
+  {
+    "id": 118,
+    "category": "Afrika - geografie",
+    "difficulty": "easy",
+    "question": "Jak se jmenuje pásmo savan mezi Saharou a tropickými lesy?",
+    "choices": ["Maghreb", "Sahel", "Kalahari", "Karoo"],
+    "answerIndex": 1
+  },
+  {
+    "id": 119,
+    "category": "Afrika - geografie",
+    "difficulty": "easy",
+    "question": "Které náboženství převažuje v severní (arabské) Africe?",
+    "choices": ["Islám", "Křesťanství", "Hinduismus", "Animismus"],
+    "answerIndex": 0
+  },
+  {
+    "id": 120,
+    "category": "Afrika - geografie",
+    "difficulty": "easy",
+    "question": "Jak se jmenuje největší africký slum, nacházející se v Nairobi?",
+    "choices": ["Soweto", "Khayelitsha", "Kibera", "Ajegunle"],
+    "answerIndex": 2
+  },
+  {
+    "id": 121,
+    "category": "Afrika - geografie",
+    "difficulty": "easy",
+    "question": "Který stát je populačně největším v Africe (dle odhadu z roku 2012)?",
+    "choices": ["Egypt", "Etiopie", "Jihoafrická republika", "Nigérie"],
+    "answerIndex": 3
+  },
+  {
+    "id": 122,
+    "category": "Afrika - geografie",
+    "difficulty": "easy",
+    "question": "Který strom je symbolem afrických savan s typickým „tlustým kmenem“?",
+    "choices": ["Akácie", "Baobab", "Palma datlová", "Cedr"],
+    "answerIndex": 1
+  },
+  {
+    "id": 123,
+    "category": "Afrika - geografie",
+    "difficulty": "easy",
+    "question": "Které zvíře patří mezi typické zástupce fauny savan?",
+    "choices": ["Žirafa", "Lední medvěd", "Tygr", "Klokan"],
+    "answerIndex": 0
+  },
+  {
+    "id": 124,
+    "category": "Afrika - geografie",
+    "difficulty": "easy",
+    "question": "Jaký je hlavní cíl zahraniční rozvojové spolupráce?",
+    "choices": ["Dobývání vesmíru", "Odstranění chudoby", "Zvýšení těžby ropy", "Výstavba mrakodrapů"],
+    "answerIndex": 1
+  },
+  {
+    "id": 125,
+    "category": "Afrika - geografie",
+    "difficulty": "easy",
+    "question": "Jaká je přibližná populace Afriky (údaj pro rok 2012)?",
+    "choices": ["500 milionů", "Přes 1 miliardu", "2 miliardy", "3 miliardy"],
+    "answerIndex": 1
+  },
+  {
+    "id": 126,
+    "category": "Afrika - geografie",
+    "difficulty": "easy",
+    "question": "Který sektor hospodářství zaměstnává v mnoha afrických zemích přes 80 % lidí?",
+    "choices": ["Zemědělství", "Průmysl", "Služby", "IT technologie"],
+    "answerIndex": 0
+  },
+  {
+    "id": 127,
+    "category": "Afrika - geografie",
+    "difficulty": "easy",
+    "question": "Který nerost se těží v oblasti „Copperbelt“?",
+    "choices": ["Zlato", "Ropa", "Měď", "Uhlí"],
+    "answerIndex": 2
+  },
+  {
+    "id": 128,
+    "category": "Afrika - geografie",
+    "difficulty": "easy",
+    "question": "Jak se jmenuje mezinárodní organizace sdružující téměř všechny africké státy?",
+    "choices": ["Evropská unie", "Africká unie", "Arabská liga", "ASEAN"],
+    "answerIndex": 1
+  },
+  {
+    "id": 129,
+    "category": "Afrika - geografie",
+    "difficulty": "easy",
+    "question": "Který stát je v Africe největším vývozcem platiny?",
+    "choices": ["Nigérie", "Egypt", "Jihoafrická republika", "Alžírsko"],
+    "answerIndex": 2
+  },
+  {
+    "id": 130,
+    "category": "Afrika - geografie",
+    "difficulty": "easy",
+    "question": "Co je to „vádí“?",
+    "choices": ["Typ afrického jídla", "Občasný vodní tok v poušti", "Druh savany", "Africké město"],
+    "answerIndex": 1
+  },
+  {
+    "id": 131,
+    "category": "Afrika - geografie",
+    "difficulty": "easy",
+    "question": "Který stát v Africe má nejvíce rozvinutou silniční a železniční síť?",
+    "choices": ["Čad", "Jihoafrická republika", "Mali", "Niger"],
+    "answerIndex": 1
+  },
+  {
+    "id": 132,
+    "category": "Afrika - geografie",
+    "difficulty": "easy",
+    "question": "Které město je hlavním městem Egypta?",
+    "choices": ["Káhira", "Alexandrie", "Lagos", "Nairobi"],
+    "answerIndex": 0
+  },
+  {
+    "id": 133,
+    "category": "Afrika - geografie",
+    "difficulty": "easy",
+    "question": "Který stát je nejmenším státem Afriky podle počtu obyvatel?",
+    "choices": ["Nigérie", "Seychely", "Egypt", "Etiopie"],
+    "answerIndex": 1
+  },
+  {
+    "id": 134,
+    "category": "Afrika - geografie",
+    "difficulty": "easy",
+    "question": "Jak se nazývá proces kácení lesů pro získání půdy?",
+    "choices": ["Erodování", "Deforestace", "Urbanizace", "Peneplenizace"],
+    "answerIndex": 1
+  },
+  {
+    "id": 135,
+    "category": "Afrika - geografie",
+    "difficulty": "easy",
+    "question": "Jak se jmenuje nejdelší řeka v jižní Africe?",
+    "choices": ["Nil", "Kongo", "Zambezi", "Niger"],
+    "answerIndex": 2
+  },
+  {
+    "id": 136,
+    "category": "Afrika - geografie",
+    "difficulty": "easy",
+    "question": "Který stát je nejzápadnějším bodem africké pevniny?",
+    "choices": ["Senegal", "Maroko", "Angola", "Somálsko"],
+    "answerIndex": 0
+  },
+  {
+    "id": 137,
+    "category": "Afrika - geografie",
+    "difficulty": "easy",
+    "question": "Která země je známá pěstováním kávy (její pravlast)?",
+    "choices": ["Libye", "Etiopie", "Namibie", "Botswana"],
+    "answerIndex": 1
+  },
+  {
+    "id": 138,
+    "category": "Afrika - geografie",
+    "difficulty": "easy",
+    "question": "Který zvířecí druh je typický pro Madagaskar?",
+    "choices": ["Lemur", "Slon", "Lev", "Zebra"],
+    "answerIndex": 0
+  },
+  {
+    "id": 139,
+    "category": "Afrika - geografie",
+    "difficulty": "easy",
+    "question": "Co je to „apartheid“ (v kontextu historie JAR)?",
+    "choices": ["Typ zemědělství", "Systém rasové segregace", "Náboženský obřad", "Druh tance"],
+    "answerIndex": 1
+  },
+  {
+    "id": 140,
+    "category": "Afrika - geografie",
+    "difficulty": "easy",
+    "question": "Která plodina je hlavní exportní komoditou Etiopie?",
+    "choices": ["Ropa", "Diamanty", "Káva", "Měď"],
+    "answerIndex": 2
+  },
+  {
+    "id": 141,
+    "category": "Afrika - geografie",
+    "difficulty": "easy",
+    "question": "Které moře omývá Afriku na severu?",
+    "choices": ["Středozemní", "Rudé", "Karibské", "Černé"],
+    "answerIndex": 0
+  },
+  {
+    "id": 142,
+    "category": "Afrika - geografie",
+    "difficulty": "easy",
+    "question": "Který stát sousedí se Sinajským poloostrovem?",
+    "choices": ["Tunisko", "Egypt", "Maroko", "Alžírsko"],
+    "answerIndex": 1
+  },
+  {
+    "id": 143,
+    "category": "Afrika - geografie",
+    "difficulty": "easy",
+    "question": "Co se těží v Libyi a Alžírsku jako hlavní zdroj příjmů?",
+    "choices": ["Ropa a zemní plyn", "Zlato", "Káva", "Bavlna"],
+    "answerIndex": 0
+  },
+  {
+    "id": 144,
+    "category": "Afrika - geografie",
+    "difficulty": "easy",
+    "question": "Jak se jmenuje slavný cestovatel, který objevil Viktoriiny vodopády?",
+    "choices": ["Marco Polo", "David Livingstone", "Kryštof Kolumbus", "Vasco da Gama"],
+    "answerIndex": 1
+  },
+  {
+    "id": 145,
+    "category": "Afrika - geografie",
+    "difficulty": "easy",
+    "question": "Který africký stát je známý výrobou vína a pěstováním ovoce na jihu?",
+    "choices": ["Jihoafrická republika", "Čad", "Niger", "Súdán"],
+    "answerIndex": 0
+  },
+  {
+    "id": 146,
+    "category": "Afrika - geografie",
+    "difficulty": "easy",
+    "question": "Kolik zemí tvoří v současnosti Africkou unii (téměř všechny kromě jedné)?",
+    "choices": ["10", "25", "40", "Přes 50 (všechny kromě Maroka)"],
+    "answerIndex": 3
+  },
+  {
+    "id": 147,
+    "category": "Afrika - geografie",
+    "difficulty": "easy",
+    "question": "Který stát v Africe je známý jako největší producent kakaa na světě?",
+    "choices": ["Egypt", "Pobřeží Slonoviny", "JAR", "Libye"],
+    "answerIndex": 1
+  },
+  {
+    "id": 148,
+    "category": "Afrika - geografie",
+    "difficulty": "easy",
+    "question": "Jak se jmenuje nejhlubší jezero v Africe?",
+    "choices": ["Viktoriino", "Tanganika", "Čadské", "Tana"],
+    "answerIndex": 1
+  },
+  {
+    "id": 149,
+    "category": "Afrika - geografie",
+    "difficulty": "easy",
+    "question": "Které město je největší aglomerací v Africe?",
+    "choices": ["Káhira", "Praha", "Kapské Město", "Luanda"],
+    "answerIndex": 0
+  },
+  {
+    "id": 150,
+    "category": "Afrika - geografie",
+    "difficulty": "easy",
+    "question": "Co je to „animismus“?",
+    "choices": ["Těžba zvířat", "Víra v oduševnělost přírody", "Typ africké dopravy", "Politická strana"],
+    "answerIndex": 1
+  },
+
+  {
+    "id": 151,
+    "category": "Afrika - geografie",
+    "difficulty": "medium",
+    "question": "Jaká je matematická hodnota nejsevernějšího bodu Afriky (Rass Ben Sekka)?",
+    "choices": ["34˚51´ j. š.", "37˚21´ s. š.", "17˚31´ z. d.", "51˚27´ v. d."],
+    "answerIndex": 1
+  },
+  {
+    "id": 152,
+    "category": "Afrika - geografie",
+    "difficulty": "medium",
+    "question": "Který typ hornin buduje převážnou část starého afrického štítu?",
+    "choices": ["Prekambrické horniny (rula, břidlice)", "Druhohorní vápence", "Třetihorní pískovce", "Čtvrtohorní sedimenty"],
+    "answerIndex": 0
+  },
+  {
+    "id": 153,
+    "category": "Afrika - geografie",
+    "difficulty": "medium",
+    "question": "Co jsou to „tillity“ v kontextu africké geologie?",
+    "choices": ["Typ sopečného popela", "Zpevněné morénové sedimenty zalednění", "Písčité duny", "Druh krystalické břidlice"],
+    "answerIndex": 1
+  },
+  {
+    "id": 154,
+    "category": "Afrika - geografie",
+    "difficulty": "medium",
+    "question": "Který proces vedl k vytvoření paroviny v Africe?",
+    "choices": ["Subdukce", "Peneplenizace", "Transgrese", "Regrese"],
+    "answerIndex": 1
+  },
+  {
+    "id": 155,
+    "category": "Afrika - geografie",
+    "difficulty": "medium",
+    "question": "Jaká je průměrná nadmořská výška afrického kontinentu?",
+    "choices": ["350 m n. m.", "550 m n. m.", "750 m n. m.", "950 m n. m."],
+    "answerIndex": 2
+  },
+  {
+    "id": 156,
+    "category": "Afrika - geografie",
+    "difficulty": "medium",
+    "question": "Která sopka v Africe měla poslední zaznamenanou erupci v roce 2002?",
+    "choices": ["Meru", "Pico de Teide", "Nyiragongo", "Kilimandžáro"],
+    "answerIndex": 2
+  },
+  {
+    "id": 157,
+    "category": "Afrika - geografie",
+    "difficulty": "medium",
+    "question": "Která oblast je označována jako „Nízká Afrika“?",
+    "choices": ["Severní a západní část kontinentu", "Jižní a východní část kontinentu", "Pouze ostrovní část", "Pobřeží Indického oceánu"],
+    "answerIndex": 0
+  },
+  {
+    "id": 158,
+    "category": "Afrika - geografie",
+    "difficulty": "medium",
+    "question": "Co způsobuje tzv. anemoorografický (návětrný) efekt na Madagaskaru?",
+    "choices": ["Nedostatek srážek na východě", "Bohaté srážky na východě a srážkový stín na jihozápadě", "Pravidelné sněžení v nížinách", "Vznik pouště na severu ostrova"],
+    "answerIndex": 1
+  },
+  {
+    "id": 159,
+    "category": "Afrika - geografie",
+    "difficulty": "medium",
+    "question": "Který mořský proud způsobuje extrémní sucho v poušti Namib?",
+    "choices": ["Benguelský proud", "Guinejský proud", "Kanárský proud", "Monzunový proud"],
+    "answerIndex": 0
+  },
+  {
+    "id": 160,
+    "category": "Afrika - geografie",
+    "difficulty": "medium",
+    "question": "Jaká je hodnota nejvyšší absolutní teploty naměřené v Africe (Al Azīzīyah)?",
+    "choices": ["45,8 ˚C", "50,8 ˚C", "57,8 ˚C", "62,8 ˚C"],
+    "answerIndex": 2
+  },
+  {
+    "id": 161,
+    "category": "Afrika - geografie",
+    "difficulty": "medium",
+    "question": "Jak se nazývá pásmo nízkého tlaku v oblasti rovníku, které ovlivňuje srážky?",
+    "choices": ["Pasátová zóna", "Intertropická zóna konvergence (ITCZ)", "Polární fronta", "Anticyklóna"],
+    "answerIndex": 1
+  },
+  {
+    "id": 162,
+    "category": "Afrika - geografie",
+    "difficulty": "medium",
+    "question": "Který typ podnebí je dle Köppenovy klasifikace označen kódem „Af“?",
+    "choices": ["Tropické pralesní podnebí", "Savanové podnebí", "Stepní podnebí", "Horské klima"],
+    "answerIndex": 0
+  },
+  {
+    "id": 163,
+    "category": "Afrika - geografie",
+    "difficulty": "medium",
+    "question": "Jaký podíl území Afriky představují bezodtoké oblasti?",
+    "choices": ["11 %", "21 %", "31 %", "41 %"],
+    "answerIndex": 2
+  },
+  {
+    "id": 164,
+    "category": "Afrika - geografie",
+    "difficulty": "medium",
+    "question": "Která řeka v Africe má kombinovaný režim odtoku?",
+    "choices": ["Kongo", "Niger", "Ubangi", "Šari"],
+    "answerIndex": 1
+  },
+  {
+    "id": 165,
+    "category": "Afrika - geografie",
+    "difficulty": "medium",
+    "question": "Která přehrada v Africe má největší objem vody (180,6 km³)?",
+    "choices": ["Kariba", "Asuán II", "Akosombo", "Cahora Bassa"],
+    "answerIndex": 0
+  },
+  {
+    "id": 166,
+    "category": "Afrika - geografie",
+    "difficulty": "medium",
+    "question": "U kterého jezera došlo v roce 1986 k náhlému uvolnění mraku oxidu uhličitého?",
+    "choices": ["Tanganika", "Nyos", "Kivu", "Tana"],
+    "answerIndex": 1
+  },
+  {
+    "id": 167,
+    "category": "Afrika - geografie",
+    "difficulty": "medium",
+    "question": "Jak se nazývá proces výdeje vody rostlinami a půdou?",
+    "choices": ["Kondenzace", "Evapotranspirace", "Infiltrace", "Sublimace"],
+    "answerIndex": 1
+  },
+  {
+    "id": 168,
+    "category": "Afrika - geografie",
+    "difficulty": "medium",
+    "question": "Který typ půdy je nejrozšířenější v tropických deštných lesích (červenožluté)?",
+    "choices": ["Ferralsols", "Calcisols", "Vertisols", "Solonchaks"],
+    "answerIndex": 0
+  },
+  {
+    "id": 169,
+    "category": "Afrika - geografie",
+    "difficulty": "medium",
+    "question": "Která oblast Afriky je nejmenší fytogeografickou oblastí s vysokým podílem endemitů?",
+    "choices": ["Holarktická", "Paleotropická", "Kapská", "Madagaskarská"],
+    "answerIndex": 2
+  },
+  {
+    "id": 170,
+    "category": "Afrika - geografie",
+    "difficulty": "medium",
+    "question": "Co vyjadřuje „fyziologická hustota zalidnění“?",
+    "choices": ["Počet obyvatel na km² celkové plochy", "Počet obyvatel na jednotku zemědělské půdy", "Počet dětí v rodině", "Hustotu obyvatel ve městech"],
+    "answerIndex": 1
+  },
+  {
+    "id": 171,
+    "category": "Afrika - geografie",
+    "difficulty": "medium",
+    "question": "Která etnická skupina tvoří dominantní složku populace Madagaskaru?",
+    "choices": ["Arabové", "Zuluové", "Malgaši", "Pygmejové"],
+    "answerIndex": 2
+  },
+  {
+    "id": 172,
+    "category": "Afrika - geografie",
+    "difficulty": "medium",
+    "question": "Jak se nazývá soužití jednoho muže s více ženami, běžné v částech Afriky?",
+    "choices": ["Polyandrie", "Polygynie", "Monogamie", "Celibát"],
+    "answerIndex": 1
+  },
+  {
+    "id": 173,
+    "category": "Afrika - geografie",
+    "difficulty": "medium",
+    "question": "Co je to „brain drain“?",
+    "choices": ["Typ africké nemoci", "Odliv vzdělaných a kvalifikovaných lidí do zahraničí", "Vzdělávací program OSN", "Růst gramotnosti"],
+    "answerIndex": 1
+  },
+  {
+    "id": 174,
+    "category": "Afrika - geografie",
+    "difficulty": "medium",
+    "question": "Který stát má podle textu nejvyšší míru gramotnosti (přes 90 %)?",
+    "choices": ["Rovníková Guinea", "Niger", "Burkina Faso", "Mali"],
+    "answerIndex": 0
+  },
+  {
+    "id": 175,
+    "category": "Afrika - geografie",
+    "difficulty": "medium",
+    "question": "Co označuje termín „primate city“?",
+    "choices": ["Město v pralese, kde žijí opice", "Dominantní město, které je mnohonásobně větší než ostatní v zemi", "Hlavní město s historickými hradbami", "Město s nejnižší kriminalitou"],
+    "answerIndex": 1
+  },
+  {
+    "id": 176,
+    "category": "Afrika - geografie",
+    "difficulty": "medium",
+    "question": "Který stát je podle textu nejméně urbanizovaný (podíl městského obyv. cca 5 %)?",
+    "choices": ["Libye", "Egypt", "Rwanda", "Nigérie"],
+    "answerIndex": 2
+  },
+  {
+    "id": 177,
+    "category": "Afrika - geografie",
+    "difficulty": "medium",
+    "question": "Jak se jmenuje legislativní dokument ČR pro rozvojovou pomoc na období 2010–2017?",
+    "choices": ["Zákon o míru", "Koncepce zahraniční rozvojové spolupráce ČR", "Akta X", "Africký protokol"],
+    "answerIndex": 1
+  },
+  {
+    "id": 178,
+    "category": "Afrika - geografie",
+    "difficulty": "medium",
+    "question": "Která africká země je pro ČR jedinou „programovou zemí“ (nejvyšší priorita)?",
+    "choices": ["Angola", "Zambie", "Etiopie", "Nigérie"],
+    "answerIndex": 2
+  },
+  {
+    "id": 179,
+    "category": "Afrika - geografie",
+    "difficulty": "medium",
+    "question": "Který panovník je považován za zakladatele moderní Etiopie?",
+    "choices": ["Haile Selassie", "Menelik II.", "Jonas Savimbi", "Kenneth Kaunda"],
+    "answerIndex": 1
+  },
+  {
+    "id": 180,
+    "category": "Afrika - geografie",
+    "difficulty": "medium",
+    "question": "Co je to „Remittance“ v kontextu migrace?",
+    "choices": ["Druh cestovního pasu", "Finance zasílané migranty do jejich původních domovů", "Povolení k pobytu", "Typ uprchlického tábora"],
+    "answerIndex": 1
+  },
+  {
+    "id": 181,
+    "category": "Afrika - geografie",
+    "difficulty": "medium",
+    "question": "Která exkláva Angoly je bohatá na ropu a usiluje o nezávislost?",
+    "choices": ["Bié", "Cabinda", "Moxico", "Luanda"],
+    "answerIndex": 1
+  },
+  {
+    "id": 182,
+    "category": "Afrika - geografie",
+    "difficulty": "medium",
+    "question": "Která organizace reguluje objem produkce a ceny ropy (Angola je členem)?",
+    "choices": ["UNESCO", "OPEC", "NATO", "WTO"],
+    "answerIndex": 1
+  },
+  {
+    "id": 183,
+    "category": "Afrika - geografie",
+    "difficulty": "medium",
+    "question": "Jak se nazývá velká vodní nádrž budovaná v Etiopii na Modrém Nilu?",
+    "choices": ["Grand Renaissance Dam", "Inga", "Kariba", "Owen Falls"],
+    "answerIndex": 0
+  },
+  {
+    "id": 184,
+    "category": "Afrika - geografie",
+    "difficulty": "medium",
+    "question": "V které provincii Zambie je soustředěna většina českých rozvojových projektů?",
+    "choices": ["Copperbelt", "Lusaka", "Západní provincie", "Severní provincie"],
+    "answerIndex": 2
+  },
+  {
+    "id": 185,
+    "category": "Afrika - geografie",
+    "difficulty": "medium",
+    "question": "Co označuje zkratka LDCs (Least Developed Countries)?",
+    "choices": ["Země s největší těžbou diamantů", "Nejméně rozvinuté země světa", "Země s nejnižší úmrtností", "Africké ropné velmoci"],
+    "answerIndex": 1
+  },
+  {
+    "id": 186,
+    "category": "Afrika - geografie",
+    "difficulty": "medium",
+    "question": "Která země v Africe těží 92 % veškerého afrického uhlí?",
+    "choices": ["Nigérie", "Egypt", "Jihoafrická republika", "Alžírsko"],
+    "answerIndex": 2
+  },
+  {
+    "id": 187,
+    "category": "Afrika - geografie",
+    "difficulty": "medium",
+    "question": "Který kov je přezdíván jako „bílé zlato“ (JAR má 77 % světového exportu)?",
+    "choices": ["Chromit", "Platina", "Uran", "Koltan"],
+    "answerIndex": 1
+  },
+  {
+    "id": 188,
+    "category": "Afrika - geografie",
+    "difficulty": "medium",
+    "question": "Jak se jmenovala organizace, která předcházela Africké unii?",
+    "choices": ["Africké hospodářské společenství", "Organizace africké jednoty (OAJ)", "Panafrický kongres", "Liga národů"],
+    "answerIndex": 1
+  },
+  {
+    "id": 189,
+    "category": "Afrika - geografie",
+    "difficulty": "medium",
+    "question": "Který stát bojkotuje Africkou unii kvůli členství Západní Sahary?",
+    "choices": ["Alžírsko", "Egypt", "Maroko", "Libye"],
+    "answerIndex": 2
+  },
+  {
+    "id": 190,
+    "category": "Afrika - geografie",
+    "difficulty": "medium",
+    "question": "Který americký sociolog byl hlavním proponentem panafrického hnutí?",
+    "choices": ["William Du Bois", "Jonas Savimbi", "Menelik II.", "David Livingstone"],
+    "answerIndex": 0
+  },
+  {
+    "id": 191,
+    "category": "Afrika - geografie",
+    "difficulty": "medium",
+    "question": "Co je to „Fair trade“?",
+    "choices": ["Typ afrického tržiště", "Tržní přístup zajišťující producentům lepší podmínky", "Obchod s otroky", "Název africké měny"],
+    "answerIndex": 1
+  },
+  {
+    "id": 192,
+    "category": "Afrika - geografie",
+    "difficulty": "medium",
+    "question": "Která oblast Afriky je považována za „kolébku lidstva“?",
+    "choices": ["Západní Afrika", "Severní Afrika", "Východní Afrika", "Jižní Afrika"],
+    "answerIndex": 2
+  },
+  {
+    "id": 193,
+    "category": "Afrika - geografie",
+    "difficulty": "medium",
+    "question": "Který typ měst vznikal v kolonizované Africe jako replika evropských sídel?",
+    "choices": ["Muslimské město", "Domorodé město", "Evropské město", "Hybridní město"],
+    "answerIndex": 2
+  },
+  {
+    "id": 194,
+    "category": "Afrika - geografie",
+    "difficulty": "medium",
+    "question": "Co znamená v překladu název vodopádů „Mosi-oa-Tunya“?",
+    "choices": ["Velká voda", "Hřmící kouř", "Zlatá řeka", "Krásný pohled"],
+    "answerIndex": 1
+  },
+  {
+    "id": 195,
+    "category": "Afrika - geografie",
+    "difficulty": "medium",
+    "question": "Jaký je hlavní důvod politické nestability v deltě Nigeru?",
+    "choices": ["Nedostatek jídla", "Neschopnost vlády redistribuovat zisky z ropy a znečištění", "Náboženský spor o vodu", "Invaze sousedního státu"],
+    "answerIndex": 1
+  },
+  {
+    "id": 196,
+    "category": "Afrika - geografie",
+    "difficulty": "medium",
+    "question": "Který typ jezera je jezero Tana v Etiopii?",
+    "choices": ["Tektonické", "Reliktní", "Hrazené lávovými proudy", "V meteorickém kráteru"],
+    "answerIndex": 2
+  },
+  {
+    "id": 197,
+    "category": "Afrika - geografie",
+    "difficulty": "medium",
+    "question": "Co je to „fynbos“?",
+    "choices": ["Africký pokrm", "Křovinatá formace v Kapské oblasti", "Typ slaného jezera", "Etnická skupina"],
+    "answerIndex": 1
+  },
+  {
+    "id": 198,
+    "category": "Afrika - geografie",
+    "difficulty": "medium",
+    "question": "Který stát v Africe má nejnižší hrubou míru úmrtnosti (3,4 ‰)?",
+    "choices": ["Angola", "Libye", "Zambie", "Mosambik"],
+    "answerIndex": 1
+  },
+  {
+    "id": 199,
+    "category": "Afrika - geografie",
+    "difficulty": "medium",
+    "question": "Která mezinárodní iniciativa definovala 8 rozvojových cílů v roce 2000?",
+    "choices": ["Rozvojové cíle tisíciletí (MDGs)", "Akční plán z Lagosu", "Syrtská deklarace", "Konference v Berlíně"],
+    "answerIndex": 0
+  },
+  {
+    "id": 200,
+    "category": "Afrika - geografie",
+    "difficulty": "medium",
+    "question": "Který typ sídel v Africe stále převažuje (žije v nich cca 60 % obyv.)?",
+    "choices": ["Velkoměsta", "Slumy", "Vesnická sídla", "Oázy"],
+    "answerIndex": 2
+  },
+  {
+    "id": 201,
+    "category": "světové dějiny",
+    "difficulty": "easy",
+    "question": "Která věda zkoumá hmotné historické prameny?",
+    "choices": ["Geologie", "Archeologie", "Astronomie", "Biologie"],
+    "answerIndex": 1
+  },
+  {
+    "id": 202,
+    "category": "světové dějiny",
+    "difficulty": "easy",
+    "question": "Jak se nazývá školní předmět, který se zabývá dějinami?",
+    "choices": ["Zeměpis", "Dějepis", "Občanská výchova", "Vlastivěda"],
+    "answerIndex": 1
+  },
+  {
+    "id": 203,
+    "category": "světové dějiny",
+    "difficulty": "easy",
+    "question": "Co je počátkem křesťanského letopočtu?",
+    "choices": ["Narození Ježíše Krista", "Založení Říma", "Objevení Ameriky", "Vznik písma"],
+    "answerIndex": 0
+  },
+  {
+    "id": 204,
+    "category": "světové dějiny",
+    "difficulty": "easy",
+    "question": "Které období je nejdelší epochou lidských dějin?",
+    "choices": ["Starověk", "Středověk", "Novověk", "Pravěk"],
+    "answerIndex": 3
+  },
+  {
+    "id": 205,
+    "category": "světové dějiny",
+    "difficulty": "easy",
+    "question": "Který kov začal člověk používat jako úplně první?",
+    "choices": ["Železo", "Zlato", "Měď", "Bronz"],
+    "answerIndex": 2
+  },
+  {
+    "id": 206,
+    "category": "světové dějiny",
+    "difficulty": "easy",
+    "question": "Jak se jmenovala první „města“ Keltů?",
+    "choices": ["Hrady", "Oppida", "Polis", "Vesnice"],
+    "answerIndex": 1
+  },
+  {
+    "id": 207,
+    "category": "světové dějiny",
+    "difficulty": "easy",
+    "question": "Která řeka byla klíčová pro starověký Egypt?",
+    "choices": ["Eufrat", "Tigris", "Nil", "Indus"],
+    "answerIndex": 2
+  },
+  {
+    "id": 208,
+    "category": "světové dějiny",
+    "difficulty": "easy",
+    "question": "Jak se nazývali vládci starověkého Egypta?",
+    "choices": ["Králové", "Císaři", "Faraoni", "Sultáni"],
+    "answerIndex": 2
+  },
+  {
+    "id": 209,
+    "category": "světové dějiny",
+    "difficulty": "easy",
+    "question": "K čemu sloužily egyptské pyramidy?",
+    "choices": ["Jako sýpky", "Jako hrobky", "Jako chrámy", "Jako pevnosti"],
+    "answerIndex": 1
+  },
+  {
+    "id": 210,
+    "category": "světové dějiny",
+    "difficulty": "easy",
+    "question": "Jak se nazývá egyptské obrázkové písmo?",
+    "choices": ["Klínové", "Hieroglyfy", "Latinka", "Azbuka"],
+    "answerIndex": 1
+  },
+
+  {
+    "id": 211,
+    "category": "světové dějiny",
+    "difficulty": "easy",
+    "question": "Kolik bohů uctívali monoteisté?",
+    "choices": ["Mnoho", "Dva", "Žádného", "Jednoho"],
+    "answerIndex": 3
+  },
+  {
+    "id": 212,
+    "category": "světové dějiny",
+    "difficulty": "easy",
+    "question": "Které zvíře je v Indii posvátné?",
+    "choices": ["Pes", "Kočka", "Kráva", "Slon"],
+    "answerIndex": 2
+  },
+  {
+    "id": 213,
+    "category": "světové dějiny",
+    "difficulty": "easy",
+    "question": "Který národ vynalezl hedvábí?",
+    "choices": ["Egypťané", "Číňané", "Indové", "Řekové"],
+    "answerIndex": 1
+  },
+  {
+    "id": 214,
+    "category": "světové dějiny",
+    "difficulty": "easy",
+    "question": "Jak se jmenovala bájná nestvůra v krétském labyrintu?",
+    "choices": ["Sfinga", "Minotaurus", "Kentaur", "Kyklop"],
+    "answerIndex": 1
+  },
+  {
+    "id": 215,
+    "category": "světové dějiny",
+    "difficulty": "easy",
+    "question": "Kdo byl autorem eposů Ilias a Odyssea?",
+    "choices": ["Sokrates", "Homér", "Caesar", "Aristoteles"],
+    "answerIndex": 1
+  },
+  {
+    "id": 216,
+    "category": "světové dějiny",
+    "difficulty": "easy",
+    "question": "Jak se nazýval řecký městský stát?",
+    "choices": ["Oppidum", "Polis", "Provincie", "Civitas"],
+    "answerIndex": 1
+  },
+  {
+    "id": 217,
+    "category": "světové dějiny",
+    "difficulty": "easy",
+    "question": "Které město bylo největším soupeřem starověkých Athén?",
+    "choices": ["Řím", "Trója", "Sparta", "Babylon"],
+    "answerIndex": 2
+  },
+  {
+    "id": 218,
+    "category": "světové dějiny",
+    "difficulty": "easy",
+    "question": "Kde sídlili nejmocnější řečtí bohové?",
+    "choices": ["V Athénách", "Na Olympu", "Na Krétě", "V podsvětí"],
+    "answerIndex": 1
+  },
+  {
+    "id": 219,
+    "category": "světové dějiny",
+    "difficulty": "easy",
+    "question": "Který bůh byl vládcem řeckých bohů?",
+    "choices": ["Poseidon", "Hádes", "Zeus", "Apollon"],
+    "answerIndex": 2
+  },
+  {
+    "id": 220,
+    "category": "světové dějiny",
+    "difficulty": "easy",
+    "question": "Jak často se konaly starověké olympijské hry?",
+    "choices": ["Každý rok", "Jednou za dva roky", "Jednou za čtyři roky", "Jednou za deset let"],
+    "answerIndex": 2
+  },
+
+  {
+    "id": 221,
+    "category": "světové dějiny",
+    "difficulty": "easy",
+    "question": "Kteří bratři podle pověsti založili Řím?",
+    "choices": ["Romulus a Remus", "Kain a Abel", "Cyril a Metoděj", "Achilles a Hektor"],
+    "answerIndex": 0
+  },
+  {
+    "id": 222,
+    "category": "světové dějiny",
+    "difficulty": "easy",
+    "question": "Jak se jmenoval jazyk starověkých Římanů?",
+    "choices": ["Řečtina", "Latina", "Italština", "Germánština"],
+    "answerIndex": 1
+  },
+  {
+    "id": 223,
+    "category": "světové dějiny",
+    "difficulty": "easy",
+    "question": "Kdo stál v čele římské republiky (voleni na jeden rok)?",
+    "choices": ["Císaři", "Konzulové", "Králové", "Senátoři"],
+    "answerIndex": 1
+  },
+  {
+    "id": 224,
+    "category": "světové dějiny",
+    "difficulty": "easy",
+    "question": "Jak se říkalo římským vojákům?",
+    "choices": ["Rytíři", "Hoplíté", "Legionáři", "Žoldnéři"],
+    "answerIndex": 2
+  },
+  {
+    "id": 225,
+    "category": "světové dějiny",
+    "difficulty": "easy",
+    "question": "Který vojevůdce přešel Alpy se slony?",
+    "choices": ["Caesar", "Alexandr Veliký", "Hannibal", "Napoleon"],
+    "answerIndex": 2
+  },
+  {
+    "id": 226,
+    "category": "světové dějiny",
+    "difficulty": "easy",
+    "question": "Kdo vedl největší povstání otroků v Římě?",
+    "choices": ["Spartakus", "Brutus", "Nero", "Augustus"],
+    "answerIndex": 0
+  },
+  {
+    "id": 227,
+    "category": "světové dějiny",
+    "difficulty": "easy",
+    "question": "Který římský vládce byl zavražděn v senátu v roce 44 př. n. l.?",
+    "choices": ["Augustus", "Gaius Iulius Caesar", "Nero", "Caligula"],
+    "answerIndex": 1
+  },
+  {
+    "id": 228,
+    "category": "světové dějiny",
+    "difficulty": "easy",
+    "question": "Kdo byl prvním římským císařem?",
+    "choices": ["Caesar", "Octavián Augustus", "Traianus", "Konstantin"],
+    "answerIndex": 1
+  },
+  {
+    "id": 229,
+    "category": "světové dějiny",
+    "difficulty": "easy",
+    "question": "Kde se narodil Ježíš Kristus?",
+    "choices": ["V Římě", "V Athénách", "V Betlémě", "V Egyptě"],
+    "answerIndex": 2
+  },
+  {
+    "id": 230,
+    "category": "světové dějiny",
+    "difficulty": "easy",
+    "question": "Co je symbolem křesťanství?",
+    "choices": ["Hvězda", "Půlměsíc", "Kříž", "Slunce"],
+    "answerIndex": 2
+  },
+
+  {
+    "id": 231,
+    "category": "světové dějiny",
+    "difficulty": "easy",
+    "question": "Jak se jmenuje posvátná kniha křesťanů?",
+    "choices": ["Korán", "Bible", "Talmud", "Védy"],
+    "answerIndex": 1
+  },
+  {
+    "id": 232,
+    "category": "světové dějiny",
+    "difficulty": "easy",
+    "question": "Který kmen vyplenil Řím v roce 455 n. l.?",
+    "choices": ["Slované", "Vandalové", "Keltové", "Řekové"],
+    "answerIndex": 1
+  },
+  {
+    "id": 233,
+    "category": "světové dějiny",
+    "difficulty": "easy",
+    "question": "Kdy zanikla západořímská říše?",
+    "choices": ["1492", "800", "476 n. l.", "1918"],
+    "answerIndex": 2
+  },
+  {
+    "id": 234,
+    "category": "světové dějiny",
+    "difficulty": "easy",
+    "question": "Kdo byl nejvýznamnějším panovníkem Franské říše?",
+    "choices": ["Chlodvík", "Karel Veliký", "Napoleon", "Ludvík XIV."],
+    "answerIndex": 1
+  },
+  {
+    "id": 235,
+    "category": "světové dějiny",
+    "difficulty": "easy",
+    "question": "Jak se nazývalo hlavní město byzantské říše?",
+    "choices": ["Řím", "Paříž", "Konstantinopol", "Londýn"],
+    "answerIndex": 2
+  },
+  {
+    "id": 236,
+    "category": "světové dějiny",
+    "difficulty": "easy",
+    "question": "Jak se nazývá zakladatel islámu?",
+    "choices": ["Ježíš", "Buddha", "Mohamed", "Alláh"],
+    "answerIndex": 2
+  },
+  {
+    "id": 237,
+    "category": "světové dějiny",
+    "difficulty": "easy",
+    "question": "Jak se nazývá posvátná kniha islámu?",
+    "choices": ["Bible", "Korán", "Tóra", "Epos"],
+    "answerIndex": 1
+  },
+  {
+    "id": 238,
+    "category": "světové dějiny",
+    "difficulty": "easy",
+    "question": "Jak se označují vojenská tažení za osvobození Jeruzaléma?",
+    "choices": ["Kruciáty (Křížové výpravy)", "Revoluce", "Napoleonské války", "Mise"],
+    "answerIndex": 0
+  },
+  {
+    "id": 239,
+    "category": "světové dějiny",
+    "difficulty": "easy",
+    "question": "Kdo byli Vikingové (Normané)?",
+    "choices": ["Římští vojáci", "Severští mořeplavci", "Egyptští kněží", "Čínští obchodníci"],
+    "answerIndex": 1
+  },
+  {
+    "id": 240,
+    "category": "světové dějiny",
+    "difficulty": "easy",
+    "question": "Který umělecký sloh byl typický pro rotundy a silné zdi?",
+    "choices": ["Gotika", "Baroko", "Románský sloh", "Renesance"],
+    "answerIndex": 2
+  },
+
+  {
+    "id": 241,
+    "category": "světové dějiny",
+    "difficulty": "easy",
+    "question": "Který sloh přinesl lomený oblouk a vysoké katedrály?",
+    "choices": ["Románský", "Gotika", "Rokoko", "Klasicismus"],
+    "answerIndex": 1
+  },
+  {
+    "id": 242,
+    "category": "světové dějiny",
+    "difficulty": "easy",
+    "question": "Kdo stál v čele katolické církve?",
+    "choices": ["Císař", "Král", "Papež", "Patriarcha"],
+    "answerIndex": 2
+  },
+  {
+    "id": 243,
+    "category": "světové dějiny",
+    "difficulty": "easy",
+    "question": "Co znamená slovo renesance?",
+    "choices": ["Konec", "Znovuzrození", "Úpadek", "Válka"],
+    "answerIndex": 1
+  },
+  {
+    "id": 244,
+    "category": "světové dějiny",
+    "difficulty": "easy",
+    "question": "Kdo vynalezl knihtisk?",
+    "choices": ["Leonardo da Vinci", "Johannes Gutenberg", "Mikuláš Koperník", "Galileo Galilei"],
+    "answerIndex": 1
+  },
+  {
+    "id": 245,
+    "category": "světové dějiny",
+    "difficulty": "easy",
+    "question": "Kdo v roce 1492 objevil Ameriku?",
+    "choices": ["Vasco da Gama", "Kryštof Kolumbus", "Fernao Magalhaes", "James Cook"],
+    "answerIndex": 1
+  },
+  {
+    "id": 246,
+    "category": "světové dějiny",
+    "difficulty": "easy",
+    "question": "Která výprava jako první obeplula svět?",
+    "choices": ["Kolumbova", "Magalhaesova", "Cookova", "Amerigova"],
+    "answerIndex": 1
+  },
+  {
+    "id": 247,
+    "category": "světové dějiny",
+    "difficulty": "easy",
+    "question": "Kdo zahájil reformaci v Německu?",
+    "choices": ["Jan Hus", "Martin Luther", "Jan Kalvín", "Jindřich VIII."],
+    "answerIndex": 1
+  },
+  {
+    "id": 248,
+    "category": "světové dějiny",
+    "difficulty": "easy",
+    "question": "Která anglická královna byla nazývána „Alžbětou I.“?",
+    "choices": ["Dcera Jindřicha VIII.", "Manželka Napoleona", "Matka Petra Velikého", "Dcera Marie Terezie"],
+    "answerIndex": 0
+  },
+  {
+    "id": 249,
+    "category": "světové dějiny",
+    "difficulty": "easy",
+    "question": "Který rod ovládal rozsáhlé državy v Evropě i Americe?",
+    "choices": ["Přemyslovci", "Habsburkové", "Lucemburkové", "Tudorovci"],
+    "answerIndex": 1
+  },
+  {
+    "id": 250,
+    "category": "světové dějiny",
+    "difficulty": "easy",
+    "question": "Jak dlouho trvala třicetiletá válka?",
+    "choices": ["10 let", "20 let", "30 let", "100 let"],
+    "answerIndex": 2
+  },
+
+  {
+    "id": 251,
+    "category": "světové dějiny",
+    "difficulty": "easy",
+    "question": "Kdo byl „král Slunce“?",
+    "choices": ["Ludvík XIV.", "Petr Veliký", "Karel IV.", "Jiří z Poděbrad"],
+    "answerIndex": 0
+  },
+  {
+    "id": 252,
+    "category": "světové dějiny",
+    "difficulty": "easy",
+    "question": "Který ruský car založil Petrohrad?",
+    "choices": ["Ivan Hrozný", "Petr I. Veliký", "Mikuláš II.", "Alexandr I."],
+    "answerIndex": 1
+  },
+  {
+    "id": 253,
+    "category": "světové dějiny",
+    "difficulty": "easy",
+    "question": "Který vědec objevil gravitaci?",
+    "choices": ["Darwin", "Newton", "Einstein", "Edison"],
+    "answerIndex": 1
+  },
+  {
+    "id": 254,
+    "category": "světové dějiny",
+    "difficulty": "easy",
+    "question": "Kdo sestrojil první použitelný parní stroj?",
+    "choices": ["Stephenson", "Watt", "Fulton", "Edison"],
+    "answerIndex": 1
+  },
+  {
+    "id": 255,
+    "category": "světové dějiny",
+    "difficulty": "easy",
+    "question": "Kolik bylo původních amerických osad bojujících za nezávislost?",
+    "choices": ["5", "10", "13", "50"],
+    "answerIndex": 2
+  },
+  {
+    "id": 256,
+    "category": "světové dějiny",
+    "difficulty": "easy",
+    "question": "Kdo byl prvním prezidentem USA?",
+    "choices": ["Thomas Jefferson", "George Washington", "Abraham Lincoln", "John F. Kennedy"],
+    "answerIndex": 1
+  },
+  {
+    "id": 257,
+    "category": "světové dějiny",
+    "difficulty": "easy",
+    "question": "Která událost zahájila francouzskou revoluci roku 1789?",
+    "choices": ["Poprava krále", "Dobytí Bastily", "Bitva u Lipska", "Korunovace Napoleona"],
+    "answerIndex": 1
+  },
+  {
+    "id": 258,
+    "category": "světové dějiny",
+    "difficulty": "easy",
+    "question": "Jak se jmenoval francouzský vojevůdce, který se stal císařem?",
+    "choices": ["Ludvík XVI.", "Robespierre", "Napoleon Bonaparte", "Richelieu"],
+    "answerIndex": 2
+  },
+  {
+    "id": 259,
+    "category": "světové dějiny",
+    "difficulty": "easy",
+    "question": "Kde byl Napoleon definitivně poražen?",
+    "choices": ["U Slavkova", "U Lipska", "U Waterloo", "V Moskvě"],
+    "answerIndex": 2
+  },
+  {
+    "id": 260,
+    "category": "světové dějiny",
+    "difficulty": "easy",
+    "question": "Jak se nazývá přechod od ruční práce k strojové výrobě?",
+    "choices": ["Průmyslová revoluce", "Francouzská revoluce", "Zemědělská revoluce", "Kulturní revoluce"],
+    "answerIndex": 0
+  },
+
+  {
+    "id": 261,
+    "category": "světové dějiny",
+    "difficulty": "easy",
+    "question": "Která země byla v 19. století nazývána „dílnou světa“?",
+    "choices": ["Francie", "USA", "Velká Británie", "Německo"],
+    "answerIndex": 2
+  },
+  {
+    "id": 262,
+    "category": "světové dějiny",
+    "difficulty": "easy",
+    "question": "Kdo vynalezl žárovku?",
+    "choices": ["Bell", "Edison", "Marconi", "Tesla"],
+    "answerIndex": 1
+  },
+  {
+    "id": 263,
+    "category": "světové dějiny",
+    "difficulty": "easy",
+    "question": "Jak se jmenovali bratři, kteří uskutečnili první let letadlem?",
+    "choices": ["Lumiérové", "Wrightové", "Montgolfierové", "Siemensy"],
+    "answerIndex": 1
+  },
+  {
+    "id": 264,
+    "category": "světové dějiny",
+    "difficulty": "easy",
+    "question": "Která britská královna vládla v 19. století přes 60 let?",
+    "choices": ["Alžběta I.", "Viktorie", "Marie Antoinetta", "Kateřina Veliká"],
+    "answerIndex": 1
+  },
+  {
+    "id": 265,
+    "category": "světové dějiny",
+    "difficulty": "easy",
+    "question": "Kdo byl prezidentem USA během občanské války (Sever proti Jihu)?",
+    "choices": ["Washington", "Lincoln", "Roosevelt", "Wilson"],
+    "answerIndex": 1
+  },
+  {
+    "id": 266,
+    "category": "světové dějiny",
+    "difficulty": "easy",
+    "question": "Který vynálezce vyrobil první automobily na běžícím pásu?",
+    "choices": ["Benz", "Diesel", "Ford", "Daimler"],
+    "answerIndex": 2
+  },
+  {
+    "id": 267,
+    "category": "světové dějiny",
+    "difficulty": "easy",
+    "question": "Jaký umělecký směr zachycoval okamžik a dojmy?",
+    "choices": ["Realismus", "Baroko", "Impresionismus", "Gotika"],
+    "answerIndex": 2
+  },
+  {
+    "id": 268,
+    "category": "světové dějiny",
+    "difficulty": "easy",
+    "question": "Kdy začala první světová válka?",
+    "choices": ["1900", "1914", "1939", "1945"],
+    "answerIndex": 1
+  },
+  {
+    "id": 269,
+    "category": "světové dějiny",
+    "difficulty": "easy",
+    "question": "Kdo byl v roce 1914 zavražděn v Sarajevu?",
+    "choices": ["Adolf Hitler", "František Ferdinand d’Este", "Winston Churchill", "Car Mikuláš II."],
+    "answerIndex": 1
+  },
+  {
+    "id": 270,
+    "category": "světové dějiny",
+    "difficulty": "easy",
+    "question": "Která země jako první použila tanky?",
+    "choices": ["Německo", "Rusko", "Velká Británie", "Itálie"],
+    "answerIndex": 2
+  },
+
+  {
+    "id": 271,
+    "category": "světové dějiny",
+    "difficulty": "easy",
+    "question": "Jak se jmenoval vůdce ruských bolševiků v roce 1917?",
+    "choices": ["Stalin", "Lenin", "Trockij", "Putin"],
+    "answerIndex": 1
+  },
+  {
+    "id": 272,
+    "category": "světové dějiny",
+    "difficulty": "easy",
+    "question": "Který stát vznikl v roce 1922 na území Ruska?",
+    "choices": ["Ruská federace", "SSSR (Sovětský svaz)", "Kyjevská Rus", "Varšavská smlouva"],
+    "answerIndex": 1
+  },
+  {
+    "id": 273,
+    "category": "světové dějiny",
+    "difficulty": "easy",
+    "question": "Kdy začala světová hospodářská krize („černý čtvrtek“)?",
+    "choices": ["1918", "1929", "1933", "1939"],
+    "answerIndex": 1
+  },
+  {
+    "id": 274,
+    "category": "světové dějiny",
+    "difficulty": "easy",
+    "question": "Kdo stál v čele nacistického Německa?",
+    "choices": ["Mussolini", "Hitler", "Stalin", "Franco"],
+    "answerIndex": 1
+  },
+  {
+    "id": 275,
+    "category": "světové dějiny",
+    "difficulty": "easy",
+    "question": "Jak se nazýval italský fašistický vůdce?",
+    "choices": ["Hitler", "Mussolini", "Stalin", "Lenin"],
+    "answerIndex": 1
+  },
+  {
+    "id": 276,
+    "category": "světové dějiny",
+    "difficulty": "easy",
+    "question": "Kdy začala druhá světová válka?",
+    "choices": ["1914", "1918", "1939", "1945"],
+    "answerIndex": 2
+  },
+  {
+    "id": 277,
+    "category": "světové dějiny",
+    "difficulty": "easy",
+    "question": "Který stát napadlo Německo 1. září 1939?",
+    "choices": ["Francii", "Sovětský svaz", "Polsko", "Anglii"],
+    "answerIndex": 2
+  },
+  {
+    "id": 278,
+    "category": "světové dějiny",
+    "difficulty": "easy",
+    "question": "Jak se jmenoval britský premiér za 2. světové války?",
+    "choices": ["Chamberlain", "Churchill", "Roosevelt", "Stalin"],
+    "answerIndex": 1
+  },
+  {
+    "id": 279,
+    "category": "světové dějiny",
+    "difficulty": "easy",
+    "question": "Kterou americkou základnu napadlo Japonsko v roce 1941?",
+    "choices": ["Midway", "Pearl Harbor", "Okinawa", "New York"],
+    "answerIndex": 1
+  },
+  {
+    "id": 280,
+    "category": "světové dějiny",
+    "difficulty": "easy",
+    "question": "Které město bylo místem největší bitvy na východní frontě (1942–1943)?",
+    "choices": ["Moskva", "Berlín", "Stalingrad", "Varšava"],
+    "answerIndex": 2
+  },
+
+  {
+    "id": 281,
+    "category": "světové dějiny",
+    "difficulty": "easy",
+    "question": "Jak se jmenoval pokus nacistů o vyvraždění Židů?",
+    "choices": ["Odboj", "Holocaust", "Perestrojka", "Pakt"],
+    "answerIndex": 1
+  },
+  {
+    "id": 282,
+    "category": "světové dějiny",
+    "difficulty": "easy",
+    "question": "Který americký generál velel vylodění v Normandii?",
+    "choices": ["Patton", "MacArthur", "Eisenhower", "Marshall"],
+    "answerIndex": 2
+  },
+  {
+    "id": 283,
+    "category": "světové dějiny",
+    "difficulty": "easy",
+    "question": "Kdy skončila druhá světová válka v Evropě?",
+    "choices": ["V dubnu 1945", "V květnu 1945", "V srpnu 1945", "V září 1945"],
+    "answerIndex": 1
+  },
+  {
+    "id": 284,
+    "category": "světové dějiny",
+    "difficulty": "easy",
+    "question": "Na která japonská města byly svrženy atomové bomby?",
+    "choices": ["Tokio a Kjóto", "Hirošima a Nagasaki", "Ósaka a Nagoja", "Jokohama a Saporo"],
+    "answerIndex": 1
+  },
+  {
+    "id": 285,
+    "category": "světové dějiny",
+    "difficulty": "easy",
+    "question": "Jak se jmenuje mezinárodní organizace pro mír založená v roce 1945?",
+    "choices": ["NATO", "OSN", "EU", "UNESCO"],
+    "answerIndex": 1
+  },
+  {
+    "id": 286,
+    "category": "světové dějiny",
+    "difficulty": "easy",
+    "question": "Jak se nazývalo období napětí mezi USA a SSSR?",
+    "choices": ["Horká válka", "Studená válka", "První světová válka", "Zlatá éra"],
+    "answerIndex": 1
+  },
+  {
+    "id": 287,
+    "category": "světové dějiny",
+    "difficulty": "easy",
+    "question": "Které město bylo rozděleno zdí až do roku 1989?",
+    "choices": ["Paříž", "Berlín", "Praha", "Vídeň"],
+    "answerIndex": 1
+  },
+  {
+    "id": 288,
+    "category": "světové dějiny",
+    "difficulty": "easy",
+    "question": "Jak se jmenovala americká hospodářská pomoc Evropě?",
+    "choices": ["Trumanova doktrína", "Marshallův plán", "Nový úděl", "NATO"],
+    "answerIndex": 1
+  },
+  {
+    "id": 289,
+    "category": "světové dějiny",
+    "difficulty": "easy",
+    "question": "Kdo byl prvním člověkem ve vesmíru?",
+    "choices": ["Neil Armstrong", "Jurij Gagarin", "John Glenn", "Vladimír Remek"],
+    "answerIndex": 1
+  },
+  {
+    "id": 290,
+    "category": "světové dějiny",
+    "difficulty": "easy",
+    "question": "Kdo jako první člověk vstoupil na povrch Měsíce?",
+    "choices": ["Jurij Gagarin", "Neil Armstrong", "Buzz Aldrin", "Mike Collins"],
+    "answerIndex": 1
+  },
+
+  {
+    "id": 291,
+    "category": "světové dějiny",
+    "difficulty": "easy",
+    "question": "Jak se jmenovala slavná britská hudební skupina ze 60. let?",
+    "choices": ["ABBA", "Beatles", "Queen", "Nirvana"],
+    "answerIndex": 1
+  },
+  {
+    "id": 292,
+    "category": "světové dějiny",
+    "difficulty": "easy",
+    "question": "Co znamená zkratka EU?",
+    "choices": ["Evropská unie", "Eurozóna", "Egyptská unie", "Euroatlantická unie"],
+    "answerIndex": 0
+  },
+  {
+    "id": 293,
+    "category": "světové dějiny",
+    "difficulty": "easy",
+    "question": "Který ruský politik zahájil „přestavbu“ (perestrojku)?",
+    "choices": ["Stalin", "Brežněv", "Gorbačov", "Jelcin"],
+    "answerIndex": 2
+  },
+  {
+    "id": 294,
+    "category": "světové dějiny",
+    "difficulty": "easy",
+    "question": "V kterém roce zanikl Sovětský svaz?",
+    "choices": ["1945", "1968", "1989", "1991"],
+    "answerIndex": 3
+  },
+  {
+    "id": 295,
+    "category": "světové dějiny",
+    "difficulty": "easy",
+    "question": "Která událost se stala 11. září 2001?",
+    "choices": ["Pád berlínské zdi", "Útok na USA", "Konec války v Iráku", "Založení OSN"],
+    "answerIndex": 1
+  },
+  {
+    "id": 296,
+    "category": "světové dějiny",
+    "difficulty": "easy",
+    "question": "Která země jako první vyrobila jadernou zbraň?",
+    "choices": ["SSSR", "Německo", "USA", "Japonsko"],
+    "answerIndex": 2
+  },
+  {
+    "id": 297,
+    "category": "světové dějiny",
+    "difficulty": "easy",
+    "question": "Kdo vynalezl telefon?",
+    "choices": ["Edison", "Bell", "Marconi", "Morse"],
+    "answerIndex": 1
+  },
+  {
+    "id": 298,
+    "category": "světové dějiny",
+    "difficulty": "easy",
+    "question": "Který vynálezce zdokonalil obloukovou lampu?",
+    "choices": ["Edison", "František Křižík", "Prokop Diviš", "James Watt"],
+    "answerIndex": 1
+  },
+  {
+    "id": 299,
+    "category": "světové dějiny",
+    "difficulty": "easy",
+    "question": "Kdo byl spojován s bojem za práva menšin v USA?",
+    "choices": ["Nelson Mandela", "Martin Luther King", "Malcolm X", "Barack Obama"],
+    "answerIndex": 1
+  },
+  {
+    "id": 300,
+    "category": "světové dějiny",
+    "difficulty": "easy",
+    "question": "Co je to historie?",
+    "choices": ["Budoucnost", "Věda o minulosti", "Studium přírody", "Studium vesmíru"],
+    "answerIndex": 1
+  },
+
+  {
+    "id": 301,
+    "category": "světové dějiny",
+    "difficulty": "medium",
+    "question": "Který rok začíná židovský letopočet?",
+    "choices": ["776 př. n. l.", "753 př. n. l.", "3761 př. n. l.", "622 n. l."],
+    "answerIndex": 2
+  },
+  {
+    "id": 302,
+    "category": "světové dějiny",
+    "difficulty": "medium",
+    "question": "Kdy začíná muslimský letopočet (odchod Mohameda z Mekky)?",
+    "choices": ["33 n. l.", "622 n. l.", "1000 n. l.", "1453 n. l."],
+    "answerIndex": 1
+  },
+  {
+    "id": 303,
+    "category": "světové dějiny",
+    "difficulty": "medium",
+    "question": "Který druh člověka se objevil před 3 miliony lety v Africe?",
+    "choices": ["Člověk vzpřímený", "Člověk zručný", "Člověk rozumný", "Neandrtálec"],
+    "answerIndex": 1
+  },
+  {
+    "id": 304,
+    "category": "světové dějiny",
+    "difficulty": "medium",
+    "question": "Jak se jmenovalo nejslavnější naleziště lovců mamutů u Přerova?",
+    "choices": ["Dolní Věstonice", "Předmostí", "Šipka", "Kůlna"],
+    "answerIndex": 1
+  },
+  {
+    "id": 305,
+    "category": "světové dějiny",
+    "difficulty": "medium",
+    "question": "Z jakých dvou kovů vzniká slitina bronz?",
+    "choices": ["Železo a uhlí", "Měď a cín", "Měď a zlato", "Stříbro a olovo"],
+    "answerIndex": 1
+  },
+  {
+    "id": 306,
+    "category": "světové dějiny",
+    "difficulty": "medium",
+    "question": "Který národ jako první ovládl výrobu železa v Malé Asii?",
+    "choices": ["Egypťané", "Chetité", "Sumerové", "Féničané"],
+    "answerIndex": 1
+  },
+  {
+    "id": 307,
+    "category": "světové dějiny",
+    "difficulty": "medium",
+    "question": "Jak se jmenoval keltský kmen, podle kterého mají Čechy název Bohemia?",
+    "choices": ["Markomani", "Kvádové", "Bójové", "Galové"],
+    "answerIndex": 2
+  },
+  {
+    "id": 308,
+    "category": "světové dějiny",
+    "difficulty": "medium",
+    "question": "Která dvě města byla hlavními centry starověké indické kultury u Indu?",
+    "choices": ["Harappa a Mohendžodaro", "Dillí a Bombaj", "Ur a Uruk", "Memfis a Théby"],
+    "answerIndex": 0
+  },
+  {
+    "id": 309,
+    "category": "světové dějiny",
+    "difficulty": "medium",
+    "question": "Jak se nazývá indické učení o převtělování duší?",
+    "choices": ["Nirvána", "Reinkarnace", "Jóga", "Varna"],
+    "answerIndex": 1
+  },
+  {
+    "id": 310,
+    "category": "světové dějiny",
+    "difficulty": "medium",
+    "question": "Kdo sjednotil Čínu ve 3. století př. n. l. a nechal stavět Velkou zeď?",
+    "choices": ["Konfucius", "Lao-c’", "Stát Čchin", "Dynastie Ming"],
+    "answerIndex": 2
+  },
+
+  {
+    "id": 311,
+    "category": "světové dějiny",
+    "difficulty": "medium",
+    "question": "Jak se jmenoval vědec, který rozluštil chetitské písmo?",
+    "choices": ["Champollion", "Bedřich Hrozný", "Evans", "Schliemann"],
+    "answerIndex": 1
+  },
+  {
+    "id": 312,
+    "category": "světové dějiny",
+    "difficulty": "medium",
+    "question": "Který fénický přístav v severní Africe se stal soupeřem Říma?",
+    "choices": ["Byblos", "Kartágo", "Týros", "Sidon"],
+    "answerIndex": 1
+  },
+  {
+    "id": 313,
+    "category": "světové dějiny",
+    "difficulty": "medium",
+    "question": "Jak se nazývá nejstarší zákoník ze starobabylonské říše?",
+    "choices": ["Chammurapiho", "Šalomounův", "Justiniánův", "Napoleonův"],
+    "answerIndex": 0
+  },
+  {
+    "id": 314,
+    "category": "světové dějiny",
+    "difficulty": "medium",
+    "question": "Který asyrský král založil slavnou knihovnu v Ninive?",
+    "choices": ["Nabukadnezar", "Chammurapi", "Aššurbanipal", "Kýros Veliký"],
+    "answerIndex": 2
+  },
+  {
+    "id": 315,
+    "category": "světové dějiny",
+    "difficulty": "medium",
+    "question": "Jak se nazývá stupňovitý chrám v Mezopotamii?",
+    "choices": ["Pyramida", "Zikkurat", "Akropole", "Bazilika"],
+    "answerIndex": 1
+  },
+  {
+    "id": 316,
+    "category": "světové dějiny",
+    "difficulty": "medium",
+    "question": "Který faraon sjednotil Horní a Dolní Egypt kolem roku 3000 př. n. l.?",
+    "choices": ["Tutanchamon", "Ramesse II.", "Meni", "Cheops"],
+    "answerIndex": 2
+  },
+  {
+    "id": 317,
+    "category": "světové dějiny",
+    "difficulty": "medium",
+    "question": "Ve kterém století byla objevena Tutanchamonova hrobka?",
+    "choices": ["V 18. století", "V 19. století", "Ve 20. století (1922)", "V 21. století"],
+    "answerIndex": 2
+  },
+  {
+    "id": 318,
+    "category": "světové dějiny",
+    "difficulty": "medium",
+    "question": "Kdo rozluštil egyptské hieroglyfy v 19. století?",
+    "choices": ["Bedřich Hrozný", "Jean-François Champollion", "Howard Carter", "Arthur Evans"],
+    "answerIndex": 1
+  },
+  {
+    "id": 319,
+    "category": "světové dějiny",
+    "difficulty": "medium",
+    "question": "Jak se nazývá proces vysušování těl ve starém Egyptě?",
+    "choices": ["Mumifikace", "Kremace", "Hibernace", "Korunovace"],
+    "answerIndex": 0
+  },
+  {
+    "id": 320,
+    "category": "světové dějiny",
+    "difficulty": "medium",
+    "question": "Kdo byl nejslavnějším židovským králem, známým svou moudrostí?",
+    "choices": ["Saul", "David", "Šalomoun", "Herodes"],
+    "answerIndex": 2
+  },
+
+  {
+    "id": 321,
+    "category": "světové dějiny",
+    "difficulty": "medium",
+    "question": "Jak se nazývá rozptýlení Židů do celého světa po zničení chrámu?",
+    "choices": ["Diaspora", "Exodus", "Holokaust", "Getto"],
+    "answerIndex": 0
+  },
+  {
+    "id": 322,
+    "category": "světové dějiny",
+    "difficulty": "medium",
+    "question": "Které písmo převzali Řekové od Féničanů a vytvořili z něj abecedu?",
+    "choices": ["Slabičné", "Hláskové", "Obrázkové", "Klínové"],
+    "answerIndex": 1
+  },
+  {
+    "id": 323,
+    "category": "světové dějiny",
+    "difficulty": "medium",
+    "question": "Který perský král nechal vybudovat „královskou cestu“ dlouhou 2500 km?",
+    "choices": ["Kýros Veliký", "Dareios I.", "Xerxes", "Artaxerxes"],
+    "answerIndex": 1
+  },
+  {
+    "id": 324,
+    "category": "světové dějiny",
+    "difficulty": "medium",
+    "question": "Jak se nazýval řecký střepinový soud k ochraně demokracie?",
+    "choices": ["Strategos", "Ostrakismus", "Archon", "Efor"],
+    "answerIndex": 1
+  },
+  {
+    "id": 325,
+    "category": "světové dějiny",
+    "difficulty": "medium",
+    "question": "Kdo byl vítězem v bitvě u Marathonu roku 490 př. n. l.?",
+    "choices": ["Peršané", "Athéňané", "Sparťané", "Makedonci"],
+    "answerIndex": 1
+  },
+  {
+    "id": 326,
+    "category": "světové dějiny",
+    "difficulty": "medium",
+    "question": "Který spartský král padl u Thermopyl s 300 bojovníky?",
+    "choices": ["Leonidas", "Perikles", "Miltiades", "Alexandr"],
+    "answerIndex": 0
+  },
+  {
+    "id": 327,
+    "category": "světové dějiny",
+    "difficulty": "medium",
+    "question": "Jak se jmenoval nejslavnější athénský politik v době „zlatého věku“?",
+    "choices": ["Solón", "Perikles", "Peisistratos", "Démosthenés"],
+    "answerIndex": 1
+  },
+  {
+    "id": 328,
+    "category": "světové dějiny",
+    "difficulty": "medium",
+    "question": "Jak se nazývá období mísení řecké kultury s orientálními po Alexandrovi?",
+    "choices": ["Archaické", "Klasické", "Helénismus", "Baroko"],
+    "answerIndex": 2
+  },
+  {
+    "id": 329,
+    "category": "světové dějiny",
+    "difficulty": "medium",
+    "question": "Které tři řecké stavební slohy rozlišujeme podle sloupů?",
+    "choices": ["Dórský, iónský, korintský", "Románský, gotický, barokní", "Etruský, římský, řecký", "Klasický, moderní, secesní"],
+    "answerIndex": 0
+  },
+  {
+    "id": 330,
+    "category": "světové dějiny",
+    "difficulty": "medium",
+    "question": "Který lékař je autorem přísahy, kterou lékaři skládají dodnes?",
+    "choices": ["Aristoteles", "Archimédes", "Hippokrates", "Galénos"],
+    "answerIndex": 2
+  },
+
+  {
+    "id": 331,
+    "category": "světové dějiny",
+    "difficulty": "medium",
+    "question": "Kdo je považován za „otce dějepisu“?",
+    "choices": ["Thukydides", "Herodotus", "Homér", "Caesar"],
+    "answerIndex": 1
+  },
+  {
+    "id": 332,
+    "category": "světové dějiny",
+    "difficulty": "medium",
+    "question": "Který národ žijící v Itálii naučil Římany stavět oblouky?",
+    "choices": ["Řekové", "Keltové", "Etruskové", "Kartáginci"],
+    "answerIndex": 2
+  },
+  {
+    "id": 333,
+    "category": "světové dějiny",
+    "difficulty": "medium",
+    "question": "Jak se latinsky řekne „věc veřejná“?",
+    "choices": ["Res publica", "Veto", "Senatus", "Imperium"],
+    "answerIndex": 0
+  },
+  {
+    "id": 334,
+    "category": "světové dějiny",
+    "difficulty": "medium",
+    "question": "Kdo mohl v římské republice zakázat zákon slovem „veto“?",
+    "choices": ["Konzul", "Tribun lidu", "Diktátor", "Císař"],
+    "answerIndex": 1
+  },
+  {
+    "id": 335,
+    "category": "světové dějiny",
+    "difficulty": "medium",
+    "question": "Jak se nazývala nejznámější římská silnice z Říma do Capuy?",
+    "choices": ["Via Regia", "Via Appia", "Via Caesarea", "Via Magna"],
+    "answerIndex": 1
+  },
+  {
+    "id": 336,
+    "category": "světové dějiny",
+    "difficulty": "medium",
+    "question": "Která bitva byla nejtěžší porážkou Říma od Hannibala (216 př. n. l.)?",
+    "choices": ["U Zamy", "U Kanny", "U Trasimenského jezera", "U Aktia"],
+    "answerIndex": 1
+  },
+  {
+    "id": 337,
+    "category": "světové dějiny",
+    "difficulty": "medium",
+    "question": "Které město bylo srovnáno se zemí v roce 146 př. n. l.?",
+    "choices": ["Řím", "Athény", "Kartágo", "Jeruzalém"],
+    "answerIndex": 2
+  },
+  {
+    "id": 338,
+    "category": "světové dějiny",
+    "difficulty": "medium",
+    "question": "Kdo tvořil první triumvirát?",
+    "choices": ["Caesar, Pompeius, Crassus", "Octavián, Antonius, Lepidus", "Augustus, Nero, Traianus", "Romulus, Remus, Numa"],
+    "answerIndex": 0
+  },
+  {
+    "id": 339,
+    "category": "světové dějiny",
+    "difficulty": "medium",
+    "question": "Kterou řeku překročil Caesar, čímž začal občanskou válku?",
+    "choices": ["Tiber", "Rubikon", "Dunaj", "Nil"],
+    "answerIndex": 1
+  },
+  {
+    "id": 340,
+    "category": "světové dějiny",
+    "difficulty": "medium",
+    "question": "Která bitva roku 31 př. n. l. rozhodla o vítězství Octaviána?",
+    "choices": ["U Filipp", "U Aktia", "U Pharsalu", "U Teutoburského lesa"],
+    "answerIndex": 1
+  },
+
+  {
+    "id": 341,
+    "category": "světové dějiny",
+    "difficulty": "medium",
+    "question": "Který císař nechal v Římě postavit Koloseum?",
+    "choices": ["Augustus", "Vespasianus", "Nero", "Konstantin"],
+    "answerIndex": 1
+  },
+  {
+    "id": 342,
+    "category": "světové dějiny",
+    "difficulty": "medium",
+    "question": "Která sopka zničila město Pompeje roku 79 n. l.?",
+    "choices": ["Etna", "Vesuv", "Stromboli", "Hekla"],
+    "answerIndex": 1
+  },
+  {
+    "id": 343,
+    "category": "světové dějiny",
+    "difficulty": "medium",
+    "question": "Za kterého císaře dosáhla římská říše největšího rozsahu?",
+    "choices": ["Augusta", "Traiana", "Marca Aurelia", "Diokleciána"],
+    "answerIndex": 1
+  },
+  {
+    "id": 344,
+    "category": "světové dějiny",
+    "difficulty": "medium",
+    "question": "Jak se jmenoval systém opevnění římských hranic?",
+    "choices": ["Limes Romanus", "Maginotova linie", "Val", "Hradba"],
+    "answerIndex": 0
+  },
+  {
+    "id": 345,
+    "category": "světové dějiny",
+    "difficulty": "medium",
+    "question": "Který císař zrovnoprávnil křesťanství Ediktem milánským (313 n. l.)?",
+    "choices": ["Nero", "Dioklecián", "Konstantin Veliký", "Marcus Aurelius"],
+    "answerIndex": 2
+  },
+  {
+    "id": 346,
+    "category": "světové dějiny",
+    "difficulty": "medium",
+    "question": "Který národ v roce 476 n. l. sesadil posledního císaře Říma?",
+    "choices": ["Hunové", "Germáni", "Slované", "Arabové"],
+    "answerIndex": 1
+  },
+  {
+    "id": 347,
+    "category": "světové dějiny",
+    "difficulty": "medium",
+    "question": "Jak se nazývalo písmo, které vzniklo z Karlovy doby?",
+    "choices": ["Latinka (karolinská minuskula)", "Azbuka", "Hieroglyfy", "Runy"],
+    "answerIndex": 0
+  },
+  {
+    "id": 348,
+    "category": "světové dějiny",
+    "difficulty": "medium",
+    "question": "Jak se jmenovalo rozdělení církve na západní a východní (1054)?",
+    "choices": ["Reformace", "Schizma", "Koncil", "Diaspora"],
+    "answerIndex": 1
+  },
+  {
+    "id": 349,
+    "category": "světové dějiny",
+    "difficulty": "medium",
+    "question": "Kdo vytvořil písmo cyrilici pro Slovany?",
+    "choices": ["Žáci Konstantina a Metoděje", "Římané", "Vikingové", "Arabové"],
+    "answerIndex": 0
+  },
+  {
+    "id": 350,
+    "category": "světové dějiny",
+    "difficulty": "medium",
+    "question": "Jak se jmenuje nejstarší ruská kronika (mnich Nestor)?",
+    "choices": ["Kosmova kronika", "Pověst dávných let", "Dalimilova kronika", "Anály"],
+    "answerIndex": 1
+  },
+  {
+  "id": 351,
+  "category": "světové dějiny",
+  "difficulty": "medium",
+  "question": "Jak se nazýval tatarský stát v Rusku?",
+  "choices": ["Kyjevská Rus", "Zlatá horda", "Osmanská říše", "Chalífát"],
+  "answerIndex": 1
+  },
+  {
+    "id": 352,
+    "category": "světové dějiny",
+    "difficulty": "medium",
+    "question": "Který španělský hrdina bojoval proti Arabům (rekonkvista)?",
+    "choices": ["Cid", "Roland", "Artuš", "Richard Lví srdce"],
+    "answerIndex": 0
+  },
+  {
+    "id": 353,
+    "category": "světové dějiny",
+    "difficulty": "medium",
+    "question": "Ve které bitvě roku 955 porazil Ota I. Maďary?",
+    "choices": ["Na řece Kalce", "Na řece Lechu", "U Hastingsu", "Na Bílé hoře"],
+    "answerIndex": 1
+  },
+  {
+    "id": 354,
+    "category": "světové dějiny",
+    "difficulty": "medium",
+    "question": "Kdo se stal prvním králem Anglie z řad Normanů (1066)?",
+    "choices": ["Alfréd Veliký", "Vilém Dobyvatel", "Richard Lví srdce", "Jindřich VIII."],
+    "answerIndex": 1
+  },
+  {
+    "id": 355,
+    "category": "světové dějiny",
+    "difficulty": "medium",
+    "question": "Jak se nazývá psací látka z kůže zvířat používaná ve středověku?",
+    "choices": ["Papyrus", "Papír", "Pergamen", "Hedvábí"],
+    "answerIndex": 2
+  },
+  {
+    "id": 356,
+    "category": "světové dějiny",
+    "difficulty": "medium",
+    "question": "Jak se jmenuje nejstarší český kronikář?",
+    "choices": ["Kristián", "Kosmas", "Dalimil", "Hájek z Libočan"],
+    "answerIndex": 1
+  },
+  {
+    "id": 357,
+    "category": "světové dějiny",
+    "difficulty": "medium",
+    "question": "Jak se nazývají sdružení středověkých řemeslníků?",
+    "choices": ["Manufaktury", "Cechy", "Komuny", "Hanza"],
+    "answerIndex": 1
+  },
+  {
+    "id": 358,
+    "category": "světové dějiny",
+    "difficulty": "medium",
+    "question": "Který anglický král vydal Velkou listinu svobod (1215)?",
+    "choices": ["Vilém Dobyvatel", "Jan Bezzemek", "Richard Lví srdce", "Jindřich II."],
+    "answerIndex": 1
+  },
+  {
+    "id": 359,
+    "category": "světové dějiny",
+    "difficulty": "medium",
+    "question": "Kdo byla „Panna orleánská“, hrdinka stoleté války?",
+    "choices": ["Alžběta I.", "Jana z Arku", "Marie Antoinetta", "Kleopatra"],
+    "answerIndex": 1
+  },
+  {
+    "id": 360,
+    "category": "světové dějiny",
+    "difficulty": "medium",
+    "question": "Jak se nazývali elitní turečtí pěšáci (původem křesťanské děti)?",
+    "choices": ["Rytíři", "Janičáři", "Samurajové", "Legionáři"],
+    "answerIndex": 1
+  },
+  {
+    "id": 361,
+    "category": "světové dějiny",
+    "difficulty": "medium",
+    "question": "Která univerzita byla první ve střední Evropě (1348)?",
+    "choices": ["Sorbonna", "Oxford", "Karlova univerzita", "Boloňská"],
+    "answerIndex": 2
+  },
+  {
+    "id": 362,
+    "category": "světové dějiny",
+    "difficulty": "medium",
+    "question": "Jak se nazývali středověcí zpěváci milostné poezie?",
+    "choices": ["Truvéři / Trubadúři", "Žakéři", "Goliardi", "Mnichové"],
+    "answerIndex": 0
+  },
+  {
+    "id": 363,
+    "category": "světové dějiny",
+    "difficulty": "medium",
+    "question": "Která slavná italská rodina podporovala renesanci ve Florencii?",
+    "choices": ["Borgiové", "Medicejští", "Habsburkové", "Sforzové"],
+    "answerIndex": 1
+  },
+  {
+    "id": 364,
+    "category": "světové dějiny",
+    "difficulty": "medium",
+    "question": "Kdo namaloval Monu Lisu?",
+    "choices": ["Michelangelo", "Leonardo da Vinci", "Rafael", "Donatello"],
+    "answerIndex": 1
+  },
+  {
+    "id": 365,
+    "category": "světové dějiny",
+    "difficulty": "medium",
+    "question": "Jak se jmenoval portugalský mořeplavec, který doplul do Indie (1498)?",
+    "choices": ["Bartolomeo Diaz", "Vasco da Gama", "Fernao Magalhaes", "Kryštof Kolumbus"],
+    "answerIndex": 1
+  },
+  {
+    "id": 366,
+    "category": "světové dějiny",
+    "difficulty": "medium",
+    "question": "Které dvě velké indiánské říše zničili Španělé?",
+    "choices": ["Mayové a Olmékové", "Aztékové a Inkové", "Apačové a Siouxové", "Čerokíové a Seminolové"],
+    "answerIndex": 1
+  },
+  {
+    "id": 367,
+    "category": "světové dějiny",
+    "difficulty": "medium",
+    "question": "Jak se jmenoval ruský car přezdívaný „Hrozný“?",
+    "choices": ["Petr I.", "Ivan IV.", "Mikuláš I.", "Boris Godunov"],
+    "answerIndex": 1
+  },
+  {
+    "id": 368,
+    "category": "světové dějiny",
+    "difficulty": "medium",
+    "question": "Který anglický král založil anglikánskou církev?",
+    "choices": ["Alfréd Veliký", "Jindřich VIII.", "Karel I.", "Jakub I."],
+    "answerIndex": 1
+  },
+  {
+    "id": 369,
+    "category": "světové dějiny",
+    "difficulty": "medium",
+    "question": "Jak se nazývali francouzští protestanti?",
+    "choices": ["Luteráni", "Hugenoti", "Puritáni", "Gézové"],
+    "answerIndex": 1
+  },
+  {
+    "id": 370,
+    "category": "světové dějiny",
+    "difficulty": "medium",
+    "question": "Co byla „bartolomějská noc“ (1572)?",
+    "choices": ["Korunovace krále", "Masakr hugenotů v Paříži", "Objevení Ameriky", "Konec stoleté války"],
+    "answerIndex": 1
+  },
+  {
+    "id": 371,
+    "category": "světové dějiny",
+    "difficulty": "medium",
+    "question": "Kdo byl vítězem v bitvě u Lepanta (1571) nad Turky?",
+    "choices": ["Francie", "Španělsko a spojenci", "Anglie", "Rusko"],
+    "answerIndex": 1
+  },
+  {
+    "id": 372,
+    "category": "světové dějiny",
+    "difficulty": "medium",
+    "question": "Kdo velel parlamentnímu vojsku v anglické revoluci a stal se lordem protektorem?",
+    "choices": ["Karel I.", "Oliver Cromwell", "Vilém Oranžský", "George Washington"],
+    "answerIndex": 1
+  },
+  {
+    "id": 373,
+    "category": "světové dějiny",
+    "difficulty": "medium",
+    "question": "Který sloh je spojen s rekatolizací, zdobností a velkolepostí?",
+    "choices": ["Renesance", "Baroko", "Gotika", "Empír"],
+    "answerIndex": 1
+  },
+  {
+    "id": 374,
+    "category": "světové dějiny",
+    "difficulty": "medium",
+    "question": "Jak se jmenuje ekonomická teorie založená na vývozu a hromadění drahých kovů?",
+    "choices": ["Socialismus", "Merkantilismus", "Liberalismus", "Feudalismus"],
+    "answerIndex": 1
+  },
+  {
+    "id": 375,
+    "category": "světové dějiny",
+    "difficulty": "medium",
+    "question": "Který vědec potvrdil heliocentrický systém (Slunce je středem)?",
+    "choices": ["Aristoteles", "Mikuláš Koperník", "Isaac Newton", "Charles Darwin"],
+    "answerIndex": 1
+  },
+  {
+    "id": 376,
+    "category": "světové dějiny",
+    "difficulty": "medium",
+    "question": "Jak se jmenoval pruský král, soupeř Marie Terezie?",
+    "choices": ["Fridrich II. Veliký", "Vilém I.", "Bismarck", "Ludvík XIV."],
+    "answerIndex": 0
+  },
+  {
+    "id": 377,
+    "category": "světové dějiny",
+    "difficulty": "medium",
+    "question": "Kdo byl autorem amerického Prohlášení nezávislosti (1776)?",
+    "choices": ["George Washington", "Thomas Jefferson", "Benjamin Franklin", "Abraham Lincoln"],
+    "answerIndex": 1
+  },
+  {
+    "id": 378,
+    "category": "světové dějiny",
+    "difficulty": "medium",
+    "question": "Jak se jmenoval revoluční popravčí nástroj ve Francii?",
+    "choices": ["Šibenice", "Gilotina", "Kolo", "Elektrické křeslo"],
+    "answerIndex": 1
+  },
+  {
+    "id": 379,
+    "category": "světové dějiny",
+    "difficulty": "medium",
+    "question": "Jak se jmenoval „občanský zákoník“ vydaný Napoleonem?",
+    "choices": ["Code Civil", "Magna Charta", "Zlatá bula", "Ústava"],
+    "answerIndex": 0
+  },
+  {
+    "id": 380,
+    "category": "světové dějiny",
+    "difficulty": "medium",
+    "question": "Kdo vynalezl parní lokomotivu (The Rocket)?",
+    "choices": ["James Watt", "George Stephenson", "Robert Fulton", "Carl Benz"],
+    "answerIndex": 1
+  },
+  {
+    "id": 381,
+    "category": "světové dějiny",
+    "difficulty": "medium",
+    "question": "Který americký vynálezce vytvořil telegraf?",
+    "choices": ["Bell", "Morse", "Edison", "Marconi"],
+    "answerIndex": 1
+  },
+  {
+    "id": 382,
+    "category": "světové dějiny",
+    "difficulty": "medium",
+    "question": "Jak se jmenoval německý „železný kancléř“, sjednotitel Německa?",
+    "choices": ["Hitler", "Bismarck", "Fridrich II.", "Metternich"],
+    "answerIndex": 1
+  },
+  {
+    "id": 383,
+    "category": "světové dějiny",
+    "difficulty": "medium",
+    "question": "Která bitva u Hradce Králové (1866) rozhodla o moci v Německu?",
+    "choices": ["Bitva u Lipska", "Bitva u Sadové (Hradce Králové)", "Bitva u Slavkova", "Bitva u Waterloo"],
+    "answerIndex": 1
+  },
+  {
+    "id": 384,
+    "category": "světové dějiny",
+    "difficulty": "medium",
+    "question": "Jak se jmenovala ruská loď, která dala signál k říjnové revoluci 1917?",
+    "choices": ["Potěmkin", "Aurora", "Titanic", "Bismarck"],
+    "answerIndex": 1
+  },
+  {
+    "id": 385,
+    "category": "světové dějiny",
+    "difficulty": "medium",
+    "question": "Co byla „magistrála“ spojující Moskvu s Vladivostokem?",
+    "choices": ["Hedvábná cesta", "Transsibiřská magistrála", "Orient Express", "Via Appia"],
+    "answerIndex": 1
+  },
+  {
+    "id": 386,
+    "category": "světové dějiny",
+    "difficulty": "medium",
+    "question": "Jak se nazývala německá útočná strategie v obou válkách?",
+    "choices": ["Blitzkrieg (Blesková válka)", "Zákopová válka", "Studená válka", "Totální válka"],
+    "answerIndex": 0
+  },
+  {
+    "id": 387,
+    "category": "světové dějiny",
+    "difficulty": "medium",
+    "question": "Která bitva v Tichomoří (1942) byla bodem obratu?",
+    "choices": ["Pearl Harbor", "U ostrova Midway", "O Okinawu", "O Guadalcanal"],
+    "answerIndex": 1
+  },
+  {
+    "id": 388,
+    "category": "světové dějiny",
+    "difficulty": "medium",
+    "question": "Jak se jmenoval nacistický ministr propagandy?",
+    "choices": ["Himmler", "Goebbels", "Göring", "Heydrich"],
+    "answerIndex": 1
+  },
+  {
+    "id": 389,
+    "category": "světové dějiny",
+    "difficulty": "medium",
+    "question": "Kdo byl hlavou SSSR během karibské krize (1962)?",
+    "choices": ["Stalin", "Chruščov", "Brežněv", "Gorbačov"],
+    "answerIndex": 1
+  },
+  {
+    "id": 390,
+    "category": "světové dějiny",
+    "difficulty": "medium",
+    "question": "Jak se jmenovalo polské odborové hnutí vedené Lechem Walesou?",
+    "choices": ["Charta 77", "Solidarita", "Perestrojka", "Pětiletka"],
+    "answerIndex": 1
+  },
+  {
+    "id": 391,
+    "category": "světové dějiny",
+    "difficulty": "medium",
+    "question": "Jak se jmenoval proces dekolonizace v roce 1960 v Africe?",
+    "choices": ["Jaro národů", "Rok Afriky", "Apartheid", "Marshallův plán"],
+    "answerIndex": 1
+  },
+  {
+    "id": 392,
+    "category": "světové dějiny",
+    "difficulty": "medium",
+    "question": "V které zemi proběhla válka ve Vietnamu?",
+    "choices": ["V Africe", "V jihovýchodní Asii", "V Jižní Americe", "V Evropě"],
+    "answerIndex": 1
+  },
+  {
+    "id": 393,
+    "category": "světové dějiny",
+    "difficulty": "medium",
+    "question": "Kdo byl vůdcem čínských komunistů?",
+    "choices": ["Čankajšek", "Mao Ce-tung", "Ho Či Min", "Kim Ir-sen"],
+    "answerIndex": 1
+  },
+  {
+    "id": 394,
+    "category": "světové dějiny",
+    "difficulty": "medium",
+    "question": "Která smlouva v roce 1992 založila Evropskou unii?",
+    "choices": ["Versailleská", "Maastrichtská", "Mnichovská", "Pařížská"],
+    "answerIndex": 1
+  },
+  {
+    "id": 395,
+    "category": "světové dějiny",
+    "difficulty": "medium",
+    "question": "Jak se jmenuje společná evropská měna?",
+    "choices": ["Dolar", "Euro", "Libra", "Frank"],
+    "answerIndex": 1
+  },
+  {
+    "id": 396,
+    "category": "světové dějiny",
+    "difficulty": "medium",
+    "question": "Která havárie postihla jadernou elektrárnu v SSSR v roce 1986?",
+    "choices": ["Fukušima", "Černobyl", "Temelín", "Jaslovské Bohunice"],
+    "answerIndex": 1
+  },
+  {
+    "id": 397,
+    "category": "světové dějiny",
+    "difficulty": "medium",
+    "question": "Která organizace vznikla k obraně západních států v roce 1949?",
+    "choices": ["Varšavská smlouva", "NATO", "OSN", "UNESCO"],
+    "answerIndex": 1
+  },
+  {
+    "id": 398,
+    "category": "světové dějiny",
+    "difficulty": "medium",
+    "question": "Který styl architektury konce 19. století využíval rostlinné motivy?",
+    "choices": ["Baroko", "Secese", "Gotika", "Empír"],
+    "answerIndex": 1
+  },
+  {
+    "id": 399,
+    "category": "světové dějiny",
+    "difficulty": "medium",
+    "question": "Jak se jmenovala první umělá družice Země (1957)?",
+    "choices": ["Apollo", "Sputnik", "Vostok", "Challenger"],
+    "answerIndex": 1
+  },
+  {
+    "id": 400,
+    "category": "světové dějiny",
+    "difficulty": "medium",
+    "question": "Jak se nazývá věda o minulosti lidstva?",
+    "choices": ["Geografie", "Historie", "Filozofie", "Sociologie"],
+    "answerIndex": 1
+  }
+  ]
+}
