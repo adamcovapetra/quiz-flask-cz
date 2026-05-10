@@ -10,49 +10,15 @@ Aplikace také umožňuje přepínání mezi **tmavým a světlým motivem**. Zv
 Tento projekt byl vytvořen především jako **výuková aplikace** pro demonstraci komunikace mezi backendem a frontendem.
 
 ---
+## 🚀 Online verze
 
-## 🚀 Instalace a spuštění
+Aplikace je dostupná online:
 
-### 1. Naklonování repozitáře
+👉 https://quiz-flask-cz.onrender.com
 
-```bash
-git clone https://github.com/your-username/quiz-flask
-cd quiz-flask
-```
-
-### 2. Vytvoření virtuálního prostředí (doporučeno)
-
-```bash
-python -m venv venv
-```
-
-**Windows**
-
-```bash
-venv\Scripts\activate
-```
-
-**macOS / Linux**
-
-```bash
-source venv/bin/activate
-```
-
-### 3. Instalace závislostí
-
-```bash
-pip install -r requirements.txt
-```
-
-### 4. Spuštění aplikace
-
-```bash
-python app.py
-```
-
-### 5. Otevření v prohlížeči
-
-http://127.0.0.1:5000
+> ⚠️ Poznámka:
+> Projekt běží na bezplatném hostingu Render.
+> Pokud je aplikace delší dobu neaktivní, může první načtení trvat až několik desítek sekund.
 
 ---
 
@@ -153,6 +119,51 @@ Slouží jako výukový projekt pro:
 * Časový limit pro odpovědi
 * Další úrovně obtížnosti
 * Migrace na FastAPI nebo frontend framework
+
+---
+
+## 💻 Lokální spuštění pro vývoj
+
+### 1. Naklonování repozitáře
+
+```bash
+git clone https://github.com/adamcovapetra/quiz-flask-cz/tree/main/quiz-flask
+cd quiz-flask
+```
+
+### 2. Vytvoření virtuálního prostředí (doporučeno)
+
+```bash
+python -m venv venv
+```
+
+**Windows**
+
+```bash
+venv\Scripts\activate
+```
+
+**macOS / Linux**
+
+```bash
+source venv/bin/activate
+```
+
+### 3. Instalace závislostí
+
+```bash
+pip install -r requirements.txt
+```
+
+### 4. Spuštění aplikace
+
+```bash
+python app.py
+```
+
+### 5. Otevření v prohlížeči
+
+http://127.0.0.1:5000
 
 ---
 
